@@ -39,6 +39,7 @@ mainChoice = menu(mainPrompt, mainChoices);
 while mainChoice ~= 5
     % Main Menu Loop
     switch mainChoice
+        % These will go to functions, there will be no code here.
         case 1 
             % Go To Line Graph
             disp("Chosen Line Graph");
@@ -55,4 +56,3 @@ while mainChoice ~= 5
 mainChoice = menu(mainPrompt, mainChoices);
 end
 fprintf("Exiting Program...\n");
-

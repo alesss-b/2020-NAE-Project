@@ -27,7 +27,7 @@ close all
 
 %% Load Data
 
-breach_data = readtable('breach_info.csv');
+breach_data = readtable('breach_info.csv', 'Headerlines', 1);
 
 % Menu Prompts and Options:
 %   main:
@@ -35,22 +35,25 @@ breach_data = readtable('breach_info.csv');
     mainChoices = ["Line Graph", "Pie Chart", "Map Graph", "Projections", "Exit"];
 
 %% Main Loop
-mainChoice = 1;
+mainChoice = menu(mainPrompt, mainChoices);
 while mainChoice ~= 5
-    mainChoice = menu(mainPrompt, mainChoices);
-    
+    % Main Menu Loop
     switch mainChoice
         case 1 
             % Go To Line Graph
+            disp("Chosen Line Graph");
         case 2
             % Go To Pie Chart
+            disp("Chosen Pie Chart");
         case 3
             % Go To Map Graph
+            disp("Chosen Map Graph");
         case 4
-            % GO To Map Graph
-        
+            % GO To Projections
+            disp("Chosen Projections");
     end
-
-
+mainChoice = menu(mainPrompt, mainChoices);
 end
+fprintf("Exiting Program...\n");
 
+%end of progra
