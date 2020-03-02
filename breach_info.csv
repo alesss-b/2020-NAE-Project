@@ -1,0 +1,1701 @@
+State,Covered Entity Type,Individuals Affected,Breach Submission Date,Location of Breached Information
+TX,Healthcare Provider,1000,10/21/09,Paper/Films
+MO,Healthcare Provider,1000,10/28/09,Network Server
+AK,Healthcare Provider,501,10/30/09,"Other, Other Portable Electronic Device"
+DC,Health Plan,3800,11/17/09,Laptop
+CA,Healthcare Provider,5166,11/20/09,Desktop Computer
+CA,Healthcare Provider,5257,11/20/09,Desktop Computer
+CA,Healthcare Provider,857,11/20/09,Desktop Computer
+CA,Healthcare Provider,6145,11/20/09,Desktop Computer
+CA,Healthcare Provider,952,11/20/09,Desktop Computer
+CA,Healthcare Provider,5900,11/23/09,Laptop
+PA,Healthcare Provider,943,11/24/09,Laptop
+TN,Business Associate,6400,11/25/09,Laptop
+VA,Business Associate,83000,12/8/09,Paper/Films
+CA,Healthcare Provider,596,12/10/09,Other
+NC,Business Associate,2000,12/11/09,"Desktop Computer, Electronic Medical Record, Network Server"
+MI,Healthcare Provider,646,12/15/09,"Desktop Computer, Laptop"
+MI,Healthcare Provider,10000,12/15/09,Other Portable Electronic Device
+CA,Healthcare Provider,610,12/15/09,Email
+MA,Business Associate,1860,1/7/10,"Electronic Medical Record, Other, Other Portable Electronic Device"
+DC,Business Associate,3400,1/8/10,Paper/Films
+MA,Healthcare Provider,1076,1/8/10,Other
+MD,Business Associate,15000,1/11/10,Paper/Films
+CA,Healthcare Provider,15500,1/12/10,"Other, Other Portable Electronic Device"
+ID,Business Associate,2562,1/14/10,Other
+MI,Healthcare Provider,10000,1/15/10,Other
+TX,Healthcare Provider,3800,1/18/10,"Other, Other Portable Electronic Device"
+MO,Healthcare Provider,9309,1/19/10,Desktop Computer
+TX,Healthcare Provider,900,1/19/10,Laptop
+IL,Healthcare Provider,812,1/22/10,Laptop
+TX,Healthcare Provider,689,1/25/10,Other
+CA,Healthcare Provider,7300,1/27/10,Laptop
+IL,Healthcare Provider,1300,1/28/10,"Other, Paper/Films"
+UT,Business Associate,5700,2/5/10,Other
+AZ,Healthcare Provider,1100,2/10/10,Laptop
+RI,Business Associate,528,2/16/10,Paper/Films
+PR,Business Associate,605,2/17/10,Paper/Films
+PR,Business Associate,1907,2/17/10,Paper/Films
+FL,Healthcare Provider,8000,2/18/10,Desktop Computer
+TN,Health Plan,3900,2/19/10,Paper/Films
+CA,Healthcare Provider,532,2/21/10,Desktop Computer
+NM,Healthcare Provider,1900,2/23/10,Desktop Computer
+CA,Healthcare Provider,3500,2/23/10,Network Server
+NY,Healthcare Provider,500,2/25/10,Paper/Films
+FL,Healthcare Provider,12580,3/1/10,Laptop
+WY,Health Plan,9023,3/2/10,Network Server
+WI,Health Plan,9500,3/3/10,Laptop
+NC,Healthcare Provider,554,3/3/10,Paper/Films
+NY,Healthcare Provider,625,3/9/10,Laptop
+TX,Healthcare Provider,21000,3/10/10,"Other, Other Portable Electronic Device"
+FL,Healthcare Provider,3800,3/17/10,Paper/Films
+WA,Healthcare Provider,5080,3/18/10,Laptop
+FL,Healthcare Provider,2600,3/23/10,Laptop
+CT,Healthcare Provider,957,3/26/10,Network Server
+AL,Healthcare Provider,2465,3/27/10,Laptop
+AL,Business Associate,768,3/30/10,Email
+AZ,Healthcare Provider,2773,4/1/10,Other Portable Electronic Device
+PA,Healthcare Provider,8000,4/2/10,Paper/Films
+IL,Healthcare Provider,6800,4/5/10,Paper/Films
+MI,Healthcare Provider,83945,4/5/10,Other
+TX,Healthcare Provider,955,4/9/10,Laptop
+GA,Business Associate,660,4/9/10,Paper/Films
+NY,Health Plan,344579,4/14/10,Other
+WI,Healthcare Provider,600,4/16/10,Other
+CT,Healthcare Provider,54165,4/19/10,Laptop
+MA,Healthcare Provider,3594,4/20/10,Laptop
+RI,Health Plan,12000,4/21/10,Paper/Films
+SC,Health Plan,2850,4/22/10,Paper/Films
+CA,Healthcare Provider,22012,4/23/10,Desktop Computer
+CA,Healthcare Provider,5450,4/24/10,Laptop
+KY,Healthcare Provider,5148,4/26/10,"Other, Other Portable Electronic Device"
+MN,Health Plan,735,4/27/10,"Other, Paper/Films"
+VA,Business Associate,1874,4/27/10,Other
+TX,Healthcare Provider,1430,4/28/10,Paper/Films
+VA,Healthcare Provider,500,4/29/10,"Desktop Computer, Laptop"
+IL,Business Associate,180111,4/29/10,"Other, Other Portable Electronic Device"
+FL,Healthcare Provider,568,5/5/10,Paper/Films
+CO,Healthcare Provider,649,5/5/10,Paper/Films
+TX,Healthcare Provider,4200,5/11/10,Laptop
+DC,Healthcare Provider,2416,5/13/10,"Email, Other Portable Electronic Device"
+CA,Healthcare Provider,40000,5/13/10,Network Server
+TX,Business Associate,656,5/14/10,Laptop
+SC,Healthcare Provider,653,5/20/10,Laptop
+NY,Healthcare Provider,2628,5/20/10,Paper/Films
+NE,,800,5/21/10,Laptop
+NC,Health Plan,5220,5/24/10,Other
+TX,Healthcare Provider,4083,5/25/10,Paper/Films
+IL,Healthcare Provider,1000,5/26/10,Laptop
+KS,Healthcare Provider,1105,6/1/10,Laptop
+KY,Healthcare Provider,708,6/1/10,Network Server
+OH,Healthcare Provider,60998,6/1/10,Laptop
+FL,Health Plan,1220000,6/3/10,Laptop
+MI,Healthcare Provider,2300,6/4/10,Laptop
+PA,Business Associate,130495,6/4/10,Other
+MN,Health Plan,16291,6/4/10,Paper/Films
+TN,Healthcare Provider,1745,6/8/10,Laptop
+MA,Business Associate,10515,6/9/10,Laptop
+NY,Health Plan,1020,6/14/10,"Desktop Computer, Email, Laptop, Network Server"
+OH,Healthcare Provider,1001,6/14/10,Email
+KY,Healthcare Provider,2027,6/18/10,Laptop
+TX,Healthcare Provider,600,6/21/10,Network Server
+GA,Business Associate,14000,6/21/10,Other
+NV,Healthcare Provider,7526,6/22/10,Network Server
+PA,Business Associate,937,6/24/10,Email
+AZ,Healthcare Provider,5893,6/28/10,Laptop
+CA,Healthcare Provider,1000,6/29/10,Paper/Films
+TN,Healthcare Provider,1537,7/2/10,"Desktop Computer, Paper/Films"
+CA,Business Associate,29000,7/6/10,"Other, Other Portable Electronic Device"
+NY,Healthcare Provider,2563,7/7/10,Other Portable Electronic Device
+NY,Healthcare Provider,800,7/7/10,"Other, Other Portable Electronic Device"
+NM,Healthcare Provider,3830,7/8/10,Laptop
+FL,Healthcare Provider,2047,7/8/10,Paper/Films
+CO,Business Associate,105470,7/9/10,Desktop Computer
+VA,Healthcare Provider,669,7/15/10,Other Portable Electronic Device
+MN,Business Associate,1097,7/17/10,Paper/Films
+PA,Business Associate,800000,7/19/10,"Electronic Medical Record, Other, Other Portable Electronic Device"
+NY,Healthcare Provider,23753,7/23/10,Desktop Computer
+OH,Business Associate,1200,7/23/10,Paper/Films
+TX,Healthcare Provider,27000,7/23/10,Network Server
+DC,Health Plan,540,7/23/10,Laptop
+NY,Healthcare Provider,16820,7/23/10,Desktop Computer
+CT,Health Plan,6372,7/27/10,Paper/Films
+TX,Healthcare Provider,6873,7/28/10,Desktop Computer
+TX,Healthcare Provider,1646,7/30/10,Laptop
+,Business Associate,1073,7/30/10,Other
+NY,Business Associate,2631,7/30/10,Paper/Films
+NC,Healthcare Provider,1590,7/30/10,Paper/Films
+IN,Health Plan,31700,7/30/10,Network Server
+TX,Healthcare Provider,694,7/30/10,Laptop
+OH,Healthcare Provider,1309,8/3/10,Laptop
+PA,Health Plan,560,8/3/10,Other
+KY,Healthcare Provider,2089,8/5/10,Laptop
+GA,Business Associate,11440,8/5/10,"Other, Other Portable Electronic Device"
+IL,Healthcare Provider,657,8/5/10,Paper/Films
+TX,Healthcare Provider,25000,8/5/10,Network Server
+OH,Healthcare Provider,13867,8/5/10,Laptop
+NC,Healthcare Provider,2300,8/9/10,Desktop Computer
+MO,Healthcare Provider,1907,8/9/10,Paper/Films
+PA,Healthcare Provider,21000,8/9/10,Laptop
+ID,Business Associate,5500,8/10/10,Other
+WA,Healthcare Provider,2698,8/11/10,Desktop Computer
+CA,Healthcare Provider,10100,8/11/10,Desktop Computer
+TN,Healthcare Provider,1711,8/16/10,"Other, Other Portable Electronic Device"
+CT,Healthcare Provider,1000,8/18/10,Laptop
+OR,Healthcare Provider,4328,8/20/10,"Desktop Computer, Laptop, Other, Other Portable Electronic Device"
+IL,Healthcare Provider,7081,8/20/10,Laptop
+MA,Business Associate,24750,8/25/10,Paper/Films
+NM,Healthcare Provider,1000,8/25/10,"Other, Other Portable Electronic Device"
+NY,Business Associate,956,8/26/10,"Other, Other Portable Electronic Device"
+NY,Business Associate,3630,8/26/10,Other Portable Electronic Device
+NY,Healthcare Provider,1200,8/27/10,"Other, Other Portable Electronic Device"
+PA,Business Associate,22642,9/7/10,Network Server
+NY,Healthcare Provider,857,9/7/10,Other Portable Electronic Device
+MN,Healthcare Provider,1740,9/8/10,Electronic Medical Record
+VA,Healthcare Provider,2739,9/8/10,Laptop
+RI,Healthcare Provider,1361,9/10/10,Paper/Films
+NV,Healthcare Provider,507,9/10/10,Paper/Films
+IA,Healthcare Provider,19222,9/11/10,Other Portable Electronic Device
+IN,Healthcare Provider,2000,9/15/10,"Desktop Computer, Laptop"
+CA,Healthcare Provider,33000,9/17/10,Paper/Films
+KS,Healthcare Provider,1200,9/19/10,"Laptop, Paper/Films"
+SC,Business Associate,1270,9/20/10,Paper/Films
+NY,Healthcare Provider,9000,9/21/10,Desktop Computer
+AK,Business Associate,2000,9/22/10,"Other, Other Portable Electronic Device"
+IN,Healthcare Provider,1199,9/23/10,Laptop
+CA,Business Associate,1474,9/23/10,"Other, Other Portable Electronic Device"
+CA,Business Associate,1474,9/23/10,"Other, Other Portable Electronic Device"
+NY,Healthcare Provider,6800,9/24/10,Network Server
+IL,Healthcare Provider,967,9/24/10,Paper/Films
+OK,Healthcare Provider,19200,9/27/10,Desktop Computer
+CA,Healthcare Provider,928,9/29/10,Desktop Computer
+MA,Business Associate,11000,10/1/10,Paper/Films
+TX,Healthcare Provider,4700,10/5/10,"Laptop, Network Server"
+KY,Healthcare Provider,2200,10/5/10,Paper/Films
+NY,Healthcare Provider,578,10/5/10,Laptop
+MD,Health Plan,692,10/6/10,Other
+TX,Healthcare Provider,585,10/8/10,Laptop
+UT,Business Associate,1298,10/13/10,"Desktop Computer, Paper/Films"
+WA,Healthcare Provider,9493,10/15/10,Network Server
+AR,Healthcare Provider,1000,10/18/10,"Other, Other Portable Electronic Device"
+CO,Healthcare Provider,2500,10/26/10,Other
+TN,Health Plan,1023209,11/1/10,Other
+CA,Healthcare Provider,716,11/2/10,Paper/Films
+,Health Plan,475000,11/4/10,Network Server
+CT,Health Plan,2345,11/7/10,Network Server
+MS,Healthcare Provider,1104,11/8/10,Desktop Computer
+PR,Business Associate,115000,11/9/10,"Other, Other Portable Electronic Device"
+CT,Healthcare Provider,12000,11/11/10,Laptop
+NE,Healthcare Provider,1550,11/12/10,Desktop Computer
+IN,Healthcare Provider,845,11/12/10,Paper/Films
+NY,Healthcare Provider,535,11/12/10,Laptop
+MI,Healthcare Provider,3700,11/15/10,Laptop
+MO,Healthcare Provider,1400,11/15/10,Laptop
+FL,Healthcare Provider,1500,11/16/10,Paper/Films
+NY,Business Associate,1744,11/24/10,Network Server
+CA,Healthcare Provider,771,11/25/10,Paper/Films
+OK,Healthcare Provider,1950,11/29/10,Paper/Films
+NY,Healthcare Provider,542,11/30/10,Desktop Computer
+PA,Healthcare Provider,613,11/30/10,Desktop Computer
+TN,Healthcare Provider,8200,11/30/10,Paper/Films
+MI,Business Associate,9475,12/3/10,Paper/Films
+TX,Healthcare Provider,800,12/7/10,Desktop Computer
+MD,Healthcare Provider,1000,12/13/10,"Desktop Computer, Network Server"
+,Healthcare Provider,1000,12/13/10,"Desktop Computer, Laptop"
+PA,Business Associate,1085,12/15/10,Network Server
+IL,Healthcare Provider,556,12/17/10,Desktop Computer
+WI,Healthcare Provider,3288,12/20/10,Laptop
+OH,Healthcare Provider,1000,12/21/10,Paper/Films
+CA,Healthcare Provider,1250,12/22/10,"Other, Other Portable Electronic Device"
+IN,Business Associate,757,12/27/10,Laptop
+IN,Business Associate,585,12/27/10,Other
+PA,Healthcare Provider,2928,12/28/10,Email
+MN,Healthcare Provider,3159,12/28/10,Laptop
+MD,Business Associate,800,12/29/10,Paper/Films
+KY,Healthcare Provider,24600,12/29/10,"Other, Other Portable Electronic Device"
+PA,Health Plan,808,12/30/10,"Other, Other Portable Electronic Device"
+AL,Healthcare Provider,2000,12/30/10,"Other, Other Portable Electronic Device"
+FL,Healthcare Provider,156000,1/3/11,Network Server
+OH,Healthcare Provider,501,1/4/11,"Desktop Computer, Laptop"
+NH,Healthcare Provider,231400,1/10/11,Network Server
+FL,Healthcare Provider,2200,1/11/11,Laptop
+IN,Healthcare Provider,1848,1/12/11,"Email, Network Server"
+VA,Healthcare Provider,11982,1/12/11,Laptop
+WA,Healthcare Clearing House,1250,1/13/11,Desktop Computer
+SC,Health Plan,5596,1/14/11,Desktop Computer
+MI,Healthcare Provider,656,1/18/11,"Desktop Computer, Laptop"
+TX,Business Associate,16200,1/18/11,"Other, Other Portable Electronic Device"
+MO,Business Associate,4800,1/18/11,Other
+WA,Healthcare Provider,12009,1/21/11,"Other, Other Portable Electronic Device"
+TX,Healthcare Provider,4486,1/24/11,Laptop
+TX,Healthcare Provider,8241,1/25/11,"Other, Other Portable Electronic Device"
+TN,Healthcare Provider,500,1/28/11,Desktop Computer
+KY,Business Associate,18871,2/7/11,Network Server
+CO,Healthcare Provider,546,2/7/11,Paper/Films
+MT,Healthcare Provider,37000,2/8/11,Laptop
+WA,Healthcare Provider,3100,2/9/11,Paper/Films
+MO,Healthcare Provider,800,2/10/11,Desktop Computer
+NJ,Business Associate,1700000,2/11/11,"Electronic Medical Record, Other"
+CA,Healthcare Provider,2250,2/11/11,Other
+TX,Healthcare Provider,9922,2/13/11,"Other, Other Portable Electronic Device"
+FL,Business Associate,2700,2/15/11,"Other, Other Portable Electronic Device"
+WV,Business Associate,3655,2/16/11,Network Server
+AZ,Healthcare Provider,2291,2/21/11,"Other, Other Portable Electronic Device"
+,Healthcare Provider,2621,2/22/11,Desktop Computer
+MI,Healthcare Provider,2777,2/23/11,"Other, Other Portable Electronic Device"
+AZ,Business Associate,4500,3/1/11,Paper/Films
+FL,Health Plan,7366,3/3/11,Other
+MA,Healthcare Provider,942,3/7/11,Desktop Computer
+KY,Healthcare Provider,8845,3/10/11,Laptop
+OK,Healthcare Provider,600,3/16/11,"Desktop Computer, Other, Other Portable Electronic Device"
+MD,Business Associate,765,3/18/11,Paper/Films
+TX,Healthcare Provider,654,3/23/11,Electronic Medical Record
+AL,Healthcare Provider,20744,3/28/11,"Desktop Computer, Network Server, Other, Other Portable Electronic Device"
+NY,Healthcare Provider,670,3/28/11,Desktop Computer
+CA,Healthcare Provider,514330,3/30/11,Desktop Computer
+WV,Healthcare Provider,1470,3/30/11,Paper/Films
+CA,Healthcare Provider,667,3/30/11,Laptop
+AK,Business Associate,1700,3/31/11,Laptop
+AZ,Healthcare Provider,635,3/31/11,"Other, Other Portable Electronic Device"
+AZ,Healthcare Provider,10000,4/4/11,"Other, Other Portable Electronic Device"
+CT,Business Associate,93500,4/5/11,Other
+OK,Healthcare Provider,84000,4/6/11,Network Server
+MO,Health Plan,935,4/8/11,Other
+OK,Healthcare Provider,132940,4/11/11,"Laptop, Paper/Films"
+SC,Healthcare Provider,2717,4/12/11,Paper/Films
+MN,Healthcare Provider,1215,4/14/11,Paper/Films
+NY,Business Associate,1900000,4/14/11,Other
+AZ,Healthcare Provider,566,4/14/11,Paper/Films
+IL,Business Associate,675,4/19/11,Other
+WY,Healthcare Provider,15000,4/20/11,Desktop Computer
+NC,Healthcare Provider,6000,4/21/11,Network Server
+IL,Healthcare Provider,1070,4/25/11,"Desktop Computer, Email, Laptop, Network Server"
+IL,Healthcare Provider,845,4/25/11,"Desktop Computer, Email, Laptop, Network Server"
+IL,Healthcare Provider,686,4/25/11,"Desktop Computer, Email, Laptop, Network Server"
+AZ,Health Plan,9393,4/25/11,"Desktop Computer, Email, Laptop, Network Server"
+IL,Healthcare Provider,532,4/25/11,"Desktop Computer, Email, Laptop, Network Server"
+OH,Healthcare Provider,500,4/28/11,Other
+NH,Healthcare Provider,5960,5/2/11,Laptop
+TX,Healthcare Provider,1500,5/5/11,Laptop
+IN,Healthcare Provider,22001,5/6/11,Laptop
+MA,Healthcare Provider,563,5/6/11,Laptop
+PR,Health Plan,24361,5/9/11,Desktop Computer
+MO,Health Plan,850,5/9/11,Other
+PA,Healthcare Provider,1388,5/9/11,Paper/Films
+,Healthcare Provider,32390,5/9/11,Desktop Computer
+FL,Healthcare Provider,8000,5/11/11,"Other, Paper/Films"
+AZ,Healthcare Provider,654,5/11/11,Paper/Films
+CA,Healthcare Provider,620,5/17/11,Laptop
+NY,Business Associate,550,5/19/11,Paper/Films
+TX,Healthcare Provider,1031,5/19/11,Other
+AL,Business Associate,13412,5/25/11,Paper/Films
+MI,Business Associate,11387,5/26/11,Network Server
+PR,Healthcare Provider,6006,5/26/11,Paper/Films
+SC,Healthcare Provider,400000,5/27/11,Desktop Computer
+KY,Healthcare Provider,1986,6/2/11,"Other, Other Portable Electronic Device"
+WA,Health Plan,2700,6/8/11,Paper/Films
+OR,Business Associate,17000,6/8/11,"Other, Other Portable Electronic Device"
+NC,Healthcare Provider,1263,6/9/11,Email
+SC,Healthcare Provider,1280,6/9/11,"Other, Other Portable Electronic Device"
+AZ,Healthcare Provider,2000,6/9/11,Paper/Films
+CA,Business Associate,1192,6/10/11,Paper/Films
+CA,Healthcare Provider,15677,6/16/11,Desktop Computer
+WV,Healthcare Provider,950,6/16/11,Paper/Films
+WA,Healthcare Provider,1105,6/17/11,"Other, Other Portable Electronic Device"
+FL,Health Plan,3463,6/17/11,Other
+TN,Healthcare Provider,705,6/22/11,Laptop
+TN,Healthcare Provider,810,6/22/11,Laptop
+MO,Healthcare Provider,1288,6/23/11,Paper/Films
+OH,Business Associate,78042,6/27/11,Laptop
+LA,Healthcare Provider,2000,6/28/11,"Desktop Computer, Electronic Medical Record, Email, Laptop, Network Server, Other, Other Portable Electronic Device"
+CA,Health Plan,694,6/29/11,Paper/Films
+CO,Business Associate,3589,6/29/11,Other
+CA,Healthcare Provider,10190,7/4/11,"Desktop Computer, Network Server"
+FL,Healthcare Provider,1562,7/8/11,"Electronic Medical Record, Other"
+AL,Healthcare Provider,880,7/8/11,Paper/Films
+NY,Healthcare Provider,712,7/8/11,Laptop
+MI,,5000,7/11/11,Network Server
+PR,Healthcare Provider,2800,7/13/11,Desktop Computer
+GA,Healthcare Provider,7500,7/15/11,Paper/Films
+CO,,,7/15/11,
+MA,Healthcare Provider,2021,7/19/11,Network Server
+IL,Business Associate,25330,7/21/11,Network Server
+TN,,1378,7/22/11,Paper/Films
+VA,Healthcare Provider,700,7/22/11,Paper/Films
+TX,Business Associate,4573,7/22/11,Paper/Films
+TX,Healthcare Provider,1870,7/28/11,Laptop
+IL,Health Plan,501,7/28/11,Paper/Films
+KY,Healthcare Provider,3604,7/28/11,Laptop
+OR,Healthcare Provider,1200,7/29/11,Desktop Computer
+CA,Healthcare Provider,1500,7/29/11,Paper/Films
+MA,Healthcare Provider,638,8/3/11,Other Portable Electronic Device
+IN,,506,8/8/11,Network Server
+NJ,Business Associate,8795,8/8/11,"Other, Other Portable Electronic Device"
+WA,Health Plan,3950,8/9/11,Paper/Films
+GA,Healthcare Provider,63425,8/15/11,"Other, Other Portable Electronic Device"
+PR,Business Associate,5848,8/15/11,Other
+TX,Business Associate,10345,8/17/11,Laptop
+IL,Healthcare Provider,815,8/18/11,Laptop
+NJ,Business Associate,32008,8/18/11,"Other, Other Portable Electronic Device"
+KY,Healthcare Provider,1432,8/25/11,"Laptop, Other Portable Electronic Device, Paper/Films"
+NJ,Business Associate,3000,8/28/11,"Desktop Computer, Electronic Medical Record, Email, Laptop, Network Server, Other, Other Portable Electronic Device, Paper/Films"
+IL,Healthcare Provider,2000,8/29/11,"Desktop Computer, Network Server"
+CA,Business Associate,19651,8/29/11,Other
+AR,Healthcare Provider,3116,9/7/11,Network Server
+CA,Healthcare Provider,1800,9/7/11,Paper/Films
+IN,Healthcare Provider,2059,9/8/11,"Other, Other Portable Electronic Device"
+TX,Health Plan,1696,9/9/11,Laptop
+WI,Business Associate,3000,9/13/11,Desktop Computer
+PR,Healthcare Provider,2000,9/13/11,Paper/Films
+TX,Healthcare Provider,2541,9/14/11,Paper/Films
+GA,Healthcare Provider,863,9/15/11,Laptop
+TX,Healthcare Provider,1300,9/20/11,Network Server
+MS,Healthcare Provider,1797,9/20/11,Paper/Films
+WA,Healthcare Provider,2367,9/21/11,"Desktop Computer, Laptop"
+VA,Business Associate,4000,9/22/11,"Other, Other Portable Electronic Device"
+PA,Business Associate,507,9/23/11,"Laptop, Paper/Films"
+IL,Healthcare Provider,518,9/23/11,Paper/Films
+TX,Healthcare Provider,1259,9/23/11,Laptop
+NY,Healthcare Provider,2600,9/26/11,Paper/Films
+MN,Healthcare Provider,14623,9/27/11,Laptop
+MN,Healthcare Provider,9497,9/27/11,Laptop
+TN,Healthcare Provider,731,9/28/11,Paper/Films
+PA,Business Associate,579,9/28/11,Paper/Films
+,,2209,9/29/11,Other
+MI,Healthcare Provider,520,10/3/11,Desktop Computer
+CT,Business Associate,1631,10/3/11,"Other, Other Portable Electronic Device"
+IN,Healthcare Provider,3266,10/4/11,Laptop
+CA,Business Associate,700,10/7/11,Paper/Films
+MA,Healthcare Provider,2200,10/7/11,"Other, Other Portable Electronic Device"
+FL,Healthcare Provider,1055489,10/7/11,Other
+MN,Healthcare Provider,2600,10/11/11,"Electronic Medical Record, Laptop"
+CT,Business Associate,3994,10/11/11,Other
+MA,Healthcare Provider,599,10/11/11,Laptop
+FL,Healthcare Provider,12784,10/13/11,Electronic Medical Record
+PA,Healthcare Provider,3150,10/14/11,Other
+PA,Healthcare Provider,500,10/17/11,Other
+MA,Healthcare Provider,14750,10/20/11,Desktop Computer
+AR,Healthcare Provider,1472,10/21/11,Other
+MO,Business Associate,7059,10/22/11,Other
+TX,Business Associate,6672,10/24/11,Desktop Computer
+IN,Healthcare Provider,757,10/25/11,Network Server
+FL,Healthcare Provider,2200,10/25/11,Paper/Films
+NY,Healthcare Provider,927,10/27/11,Laptop
+CT,Business Associate,1089,10/28/11,Desktop Computer
+MI,Business Associate,1100,10/28/11,Paper/Films
+NC,Healthcare Provider,551,10/28/11,Paper/Films
+FL,Healthcare Provider,2900,10/31/11,Network Server
+TX,Healthcare Provider,567,10/31/11,"Other, Other Portable Electronic Device"
+PA,Healthcare Provider,55000,11/2/11,Network Server
+MD,Healthcare Provider,5000,11/3/11,"Other, Paper/Films"
+CA,,2761,11/4/11,"Other, Other Portable Electronic Device"
+VA,Business Associate,4900000,11/4/11,Other
+WV,Healthcare Provider,12563,11/8/11,Laptop
+NM,Health Plan,1537,11/13/11,Paper/Films
+KS,Business Associate,8275,11/14/11,Other
+AL,Healthcare Provider,943434,11/17/11,Desktop Computer
+ND,Healthcare Provider,650,11/17/11,Laptop
+TX,Healthcare Provider,2464,11/17/11,"Electronic Medical Record, Paper/Films"
+KY,Healthcare Provider,878,11/23/11,Other Portable Electronic Device
+TN,Health Plan,1770,11/28/11,Paper/Films
+FL,Healthcare Provider,772,12/1/11,Other
+IN,Healthcare Provider,10705,12/5/11,Other
+PA,Healthcare Provider,2900,12/7/11,Paper/Films
+NY,Business Associate,7226,12/9/11,Network Server
+IL,Business Associate,2000,12/9/11,Paper/Films
+NE,Healthcare Provider,611,12/9/11,Paper/Films
+GA,Healthcare Provider,17000,12/13/11,Laptop
+WA,Healthcare Provider,4693,12/15/11,Other
+CA,Health Plan,11081,12/17/11,Paper/Films
+TN,Healthcare Provider,2185,12/21/11,"Laptop, Other Portable Electronic Device"
+WA,Health Plan,7581,12/23/11,Laptop
+TX,Healthcare Provider,870,12/28/11,Laptop
+MA,Healthcare Provider,2988,12/28/11,Laptop
+FL,Healthcare Provider,1670,1/6/12,"Desktop Computer, Network Server"
+NC,Business Associate,50000,1/10/12,"Email, Network Server"
+PA,Healthcare Provider,1300,1/10/12,Laptop
+MT,Business Associate,2700,1/11/12,Other
+CA,Business Associate,1700,1/13/12,Paper/Films
+NH,Healthcare Provider,771,1/16/12,Paper/Films
+KS,Healthcare Provider,7757,1/19/12,Laptop
+CA,Health Plan,11646,1/19/12,Paper/Films
+OK,Health Plan,844,1/20/12,Other
+VA,Business Associate,1444,1/23/12,Paper/Films
+NY,Healthcare Provider,549,1/24/12,Laptop
+IN,Healthcare Provider,1423,1/26/12,Paper/Films
+WA,Healthcare Provider,3100,1/27/12,Desktop Computer
+CO,Healthcare Provider,3200,1/27/12,Email
+FL,Healthcare Provider,1219,1/30/12,Other Portable Electronic Device
+MN,Health Plan,6678,2/1/12,Paper/Films
+NC,Healthcare Provider,2000,2/1/12,Laptop
+IL,Business Associate,14000,2/6/12,Laptop
+CA,Healthcare Provider,1366,2/8/12,Paper/Films
+NJ,Business Associate,1700,2/8/12,Other
+NJ,Healthcare Provider,1287,2/13/12,Paper/Films
+WI,Healthcare Provider,698,2/14/12,Laptop
+IN,Healthcare Provider,660,2/14/12,Other
+CA,,,2/15/12,
+DC,Healthcare Provider,1549,2/15/12,Paper/Films
+CA,Health Plan,703,2/15/12,Other
+LA,Healthcare Provider,2088,2/20/12,Other Portable Electronic Device
+OR,Business Associate,2300,2/20/12,Laptop
+PA,Healthcare Provider,728,2/27/12,Laptop
+NM,Business Associate,7000,2/28/12,Laptop
+MD,Business Associate,632,2/28/12,Other
+PR,Business Associate,7706,2/28/12,Laptop
+MD,Healthcare Provider,10480,2/29/12,Network Server
+TX,Business Associate,2559,3/2/12,Other
+AK,Healthcare Provider,2743,3/3/12,Desktop Computer
+KY,Healthcare Provider,1182,3/6/12,Paper/Films
+IN,Healthcare Provider,20000,3/9/12,Laptop
+PR,Business Associate,10000,3/12/12,"Laptop, Other Portable Electronic Device"
+PR,Business Associate,4645,3/12/12,Laptop
+PR,Business Associate,27098,3/12/12,Laptop
+CA,Healthcare Provider,1431,3/12/12,Paper/Films
+NY,Healthcare Provider,577,3/13/12,Laptop
+PR,Business Associate,7923,3/13/12,Laptop
+CA,Health Plan,875,3/14/12,Paper/Films
+PR,Business Associate,7606,3/15/12,"Laptop, Other Portable Electronic Device"
+GA,Healthcare Provider,513,3/15/12,Laptop
+TX,Healthcare Provider,1972,3/16/12,Other Portable Electronic Device
+IL,Healthcare Provider,750,3/23/12,Network Server
+IL,Business Associate,3482,3/23/12,Paper/Films
+NC,Healthcare Provider,1370,3/23/12,Other
+CA,Healthcare Provider,712,3/29/12,Paper/Films
+NY,Health Plan,642,4/3/12,Email
+TX,Healthcare Provider,502,4/4/12,Paper/Films
+MI,Health Plan,1229,4/6/12,Email
+MA,Healthcare Provider,6831,4/6/12,Paper/Films
+AZ,Healthcare Provider,9565,4/9/12,Other Portable Electronic Device
+CA,Healthcare Provider,1000,4/10/12,Email
+MI,Business Associate,555,4/10/12,Paper/Films
+CA,Business Associate,2000,4/10/12,Other
+UT,Business Associate,780000,4/11/12,Network Server
+IN,Healthcare Provider,1000,4/12/12,Paper/Films
+NY,Healthcare Provider,6745,4/12/12,"Desktop Computer, Network Server"
+FL,Health Plan,9497,4/13/12,Other
+WA,Healthcare Provider,2100,4/13/12,"Desktop Computer, Electronic Medical Record"
+TX,Healthcare Provider,1000,4/16/12,Paper/Films
+GA,Healthcare Provider,315000,4/18/12,Other
+CA,Healthcare Provider,4400,4/20/12,Desktop Computer
+AR,Healthcare Provider,7121,4/20/12,Other
+FL,Healthcare Provider,750,4/23/12,Paper/Films
+SC,Health Plan,228435,4/24/12,Email
+OR,Healthcare Provider,550,4/26/12,Paper/Films
+CA,Healthcare Provider,961,4/26/12,Network Server
+AZ,Healthcare Provider,42000,5/1/12,Network Server
+TX,Healthcare Provider,750,5/3/12,Paper/Films
+MI,Healthcare Provider,3000,5/3/12,Network Server
+WA,Healthcare Provider,1597,5/4/12,Network Server
+AL,Healthcare Provider,1655,5/4/12,Paper/Films
+TX,Healthcare Provider,7000,5/8/12,Network Server
+WV,Healthcare Provider,2905,5/10/12,Paper/Films
+IA,Health Plan,3000,5/11/12,Paper/Films
+MO,Health Plan,1134,5/11/12,Email
+MN,Healthcare Provider,4000,5/14/12,Laptop
+CA,Healthcare Provider,3900,5/14/12,Other Portable Electronic Device
+LA,Healthcare Provider,17000,5/18/12,Laptop
+MN,Health Plan,19100,5/18/12,Other
+CA,Healthcare Provider,1900,5/18/12,Other
+NC,Healthcare Provider,591,5/18/12,Other
+FL,Healthcare Provider,1137,5/19/12,Laptop
+NE,Health Plan,3000,5/21/12,Laptop
+MA,Healthcare Provider,2159,5/22/12,Laptop
+OH,Business Associate,15000,5/22/12,Other
+CA,Healthcare Provider,745,5/23/12,Paper/Films
+GA,Healthcare Provider,12937,5/24/12,"Electronic Medical Record, Paper/Films"
+CT,Healthcare Provider,925,5/25/12,Desktop Computer
+TX,Healthcare Provider,5700,5/26/12,Laptop
+TX,Healthcare Provider,500,5/26/12,Other
+WA,Healthcare Provider,756,5/29/12,"Desktop Computer, Other Portable Electronic Device"
+TN,Health Plan,1102,5/31/12,Paper/Films
+GA,Healthcare Provider,824,6/4/12,Other Portable Electronic Device
+MD,Business Associate,1444,6/4/12,Laptop
+FL,Healthcare Provider,2557,6/4/12,Other Portable Electronic Device
+OR,Healthcare Provider,11136,6/6/12,Desktop Computer
+NY,Healthcare Provider,568,6/8/12,"Email, Other"
+FL,Healthcare Provider,1409,6/14/12,Paper/Films
+KY,Healthcare Provider,4490,6/19/12,Laptop
+KY,Healthcare Provider,824,6/22/12,Laptop
+MT,Healthcare Provider,708,6/22/12,"Laptop, Other Portable Electronic Device"
+NC,Healthcare Provider,9953,6/25/12,Desktop Computer
+TX,Healthcare Provider,585,7/3/12,Laptop
+TX,Healthcare Provider,2462,7/5/12,Electronic Medical Record
+IL,Healthcare Provider,1500,7/12/12,Paper/Films
+MN,Business Associate,2533,7/13/12,Other Portable Electronic Device
+IA,Healthcare Provider,1298,7/16/12,Paper/Films
+OR,Healthcare Provider,4354,7/16/12,Network Server
+NC,Healthcare Provider,2917,7/17/12,Other Portable Electronic Device
+MA,Healthcare Provider,3900,7/20/12,Laptop
+NY,Healthcare Provider,8488,7/23/12,Desktop Computer
+IL,Healthcare Provider,7067,7/25/12,Network Server
+IN,Healthcare Provider,1504,7/25/12,Other
+AZ,Healthcare Provider,4800,7/27/12,Network Server
+IL,Healthcare Provider,4211,7/27/12,"Laptop, Other Portable Electronic Device"
+IL,Healthcare Provider,1240,7/30/12,Paper/Films
+CT,Business Associate,7461,7/30/12,Laptop
+OR,Healthcare Provider,702,7/31/12,Other
+CA,Healthcare Provider,2300,8/3/12,Desktop Computer
+TX,Healthcare Provider,2875,8/3/12,"Electronic Medical Record, Paper/Films"
+PA,Business Associate,66601,8/10/12,Laptop
+CA,Healthcare Provider,603,8/15/12,Desktop Computer
+FL,Healthcare Provider,1175,8/15/12,Other Portable Electronic Device
+CA,Healthcare Provider,,8/15/12,Laptop
+FL,Healthcare Provider,105646,8/16/12,Electronic Medical Record
+PA,Healthcare Provider,3183,8/17/12,Laptop
+TX,Healthcare Provider,2264,8/17/12,Other Portable Electronic Device
+IL,Health Plan,754,8/21/12,Paper/Films
+FL,Healthcare Provider,500,8/28/12,Laptop
+IN,Healthcare Provider,55000,8/28/12,Other Portable Electronic Device
+GA,Healthcare Provider,4000,8/31/12,Laptop
+NV,Healthcare Provider,800,9/5/12,Network Server
+WA,Healthcare Provider,942,9/7/12,Laptop
+FL,Healthcare Provider,64846,9/7/12,Paper/Films
+NM,Healthcare Provider,2365,9/12/12,Network Server
+VA,Healthcare Provider,4873,9/13/12,Other Portable Electronic Device
+NV,Business Associate,5713,9/14/12,Other Portable Electronic Device
+CT,Healthcare Provider,5827,9/14/12,"Laptop, Other Portable Electronic Device"
+NY,Healthcare Provider,13000,9/14/12,Laptop
+CA,Healthcare Provider,3031,9/17/12,Desktop Computer
+KY,Healthcare Provider,2500,9/19/12,Email
+GA,Business Associate,13074,10/8/12,Paper/Films
+CA,Healthcare Provider,65700,10/10/12,Laptop
+KY,Healthcare Provider,2376,10/12/12,Other Portable Electronic Device
+FL,Healthcare Provider,13000,10/15/12,Network Server
+TN,Healthcare Provider,27799,10/17/12,Laptop
+CA,Healthcare Provider,116506,10/18/12,Laptop
+GA,Healthcare Provider,3440,10/18/12,Other
+CA,Healthcare Provider,980,10/22/12,Desktop Computer
+CA,Health Plan,18000,10/22/12,Paper/Films
+NJ,Healthcare Provider,638,10/23/12,Paper/Films
+IN,Healthcare Provider,2900,10/23/12,Network Server
+IL,Health Plan,,10/26/12,Paper/Films
+IL,Healthcare Provider,1500,10/26/12,Paper/Films
+RI,Healthcare Provider,955,10/26/12,Paper/Films
+OH,Healthcare Provider,500,10/29/12,Paper/Films
+HI,Healthcare Provider,,10/31/12,Desktop Computer
+NY,Business Associate,1017,11/1/12,Network Server
+IL,Business Associate,508,11/2/12,Paper/Films
+MI,,2777,11/5/12,"Other, Other Portable Electronic Device"
+OH,Health Plan,,11/5/12,Laptop
+IN,,,11/5/12,
+FL,Healthcare Provider,2560,11/5/12,Electronic Medical Record
+LA,Healthcare Provider,10271,11/5/12,Electronic Medical Record
+RI,Healthcare Provider,14004,11/5/12,Other
+CO,Healthcare Provider,6262,11/7/12,Paper/Films
+IL,Healthcare Provider,3897,11/8/12,Other Portable Electronic Device
+TX,Healthcare Provider,5748,11/16/12,Other Portable Electronic Device
+CA,Health Plan,18000,11/17/12,Other
+HI,Healthcare Provider,674,11/20/12,Desktop Computer
+NM,Healthcare Provider,,11/21/12,Laptop
+CT,Healthcare Provider,14511,11/21/12,Other Portable Electronic Device
+NM,Healthcare Provider,540,11/21/12,Laptop
+TX,Business Associate,501,11/21/12,"Network Server, Paper/Films"
+MA,Healthcare Provider,615,11/26/12,Desktop Computer
+IN,Business Associate,2575,11/26/12,Other
+GA,Healthcare Provider,1306,11/27/12,Paper/Films
+CT,Healthcare Provider,1749,11/28/12,Desktop Computer
+FL,Healthcare Clearing House,10000,11/29/12,Desktop Computer
+OH,Healthcare Provider,613,11/29/12,Laptop
+IL,Business Associate,500,11/29/12,Network Server
+NC,Healthcare Provider,1100,11/29/12,Paper/Films
+CA,Healthcare Provider,1370,11/29/12,Paper/Films
+CA,Business Associate,1500,11/29/12,Desktop Computer
+RI,Healthcare Provider,683,11/30/12,Laptop
+VA,Healthcare Provider,1846,11/30/12,Other Portable Electronic Device
+NC,Healthcare Provider,5600,12/7/12,Email
+FL,Healthcare Provider,4907,12/7/12,Paper/Films
+TX,Healthcare Provider,6601,12/10/12,"Network Server, Other"
+NY,Healthcare Provider,4929,12/14/12,Desktop Computer
+AR,Health Plan,2863,12/20/12,Paper/Films
+OH,Healthcare Provider,850,12/20/12,"Laptop, Network Server"
+NY,,28187,12/21/12,Other
+AZ,Healthcare Provider,35488,12/21/12,Paper/Films
+CA,Health Plan,2643,12/23/12,Other
+MI,Healthcare Provider,4100,12/23/12,Laptop
+IN,Healthcare Provider,28893,12/26/12,Laptop
+NJ,Healthcare Provider,27800,12/27/12,Network Server
+KY,Business Associate,1090,12/28/12,Laptop
+MA,Business Associate,4343,12/28/12,Network Server
+CA,Business Associate,56820,12/31/12,Laptop
+TX,Healthcare Provider,2988,12/31/12,Desktop Computer
+NY,Health Plan,1771,1/2/13,Paper/Films
+CA,Healthcare Provider,532,1/4/13,Desktop Computer
+MA,Business Associate,4125,1/7/13,Network Server
+NV,Healthcare Provider,1483,1/8/13,Paper/Films
+OH,Business Associate,635,1/8/13,Paper/Films
+AZ,Health Plan,852,1/8/13,Paper/Films
+MA,Business Associate,7250,1/10/13,Network Server
+LA,Healthcare Provider,1400,1/10/13,Laptop
+MA,Business Associate,4100,1/10/13,Network Server
+NY,Healthcare Provider,19178,1/11/13,Laptop
+MO,Healthcare Provider,1105,1/11/13,Laptop
+MD,Healthcare Provider,3230,1/17/13,Laptop
+PA,Healthcare Provider,1184,1/18/13,Other
+TX,Healthcare Provider,678,1/22/13,Electronic Medical Record
+NY,Business Associate,725,1/22/13,Paper/Films
+CA,,,1/23/13,
+TX,Healthcare Provider,29021,1/24/13,Laptop
+WI,Healthcare Provider,2400,1/25/13,Paper/Films
+IL,Business Associate,8911,1/30/13,Desktop Computer
+LA,Business Associate,16988,1/31/13,Paper/Films
+AL,Healthcare Provider,2400,2/2/13,Desktop Computer
+GA,Business Associate,1103,2/4/13,Laptop
+NC,Business Associate,1000,2/6/13,Desktop Computer
+FL,,1200,2/7/13,Laptop
+FL,Healthcare Provider,1200,2/7/13,Laptop
+GA,Healthcare Provider,500,2/11/13,Laptop
+MD,Healthcare Provider,5822,2/12/13,Laptop
+CA,Business Associate,1368,2/12/13,Paper/Films
+WI,Healthcare Provider,43549,2/12/13,Other
+FL,Healthcare Provider,566,2/13/13,Paper/Films
+MA,Healthcare Provider,716,2/14/13,Other Portable Electronic Device
+MO,Healthcare Provider,4027,2/14/13,Laptop
+GA,Healthcare Provider,1819,2/15/13,Laptop
+NM,Healthcare Provider,778,2/17/13,Laptop
+GA,Healthcare Provider,18000,2/18/13,Network Server
+FL,,3667,2/19/13,Paper/Films
+SD,Healthcare Provider,8500,2/21/13,Desktop Computer
+AZ,Healthcare Provider,501,2/21/13,Laptop
+CA,Healthcare Provider,109000,2/22/13,Desktop Computer
+CA,Health Plan,686,2/25/13,Paper/Films
+GA,Healthcare Provider,3000,2/27/13,Laptop
+OH,Business Associate,2261,3/1/13,Paper/Films
+NY,Business Associate,28187,3/1/13,Other Portable Electronic Device
+IL,Business Associate,500,3/1/13,Other
+FL,Healthcare Provider,834,3/2/13,Electronic Medical Record
+PA,Healthcare Provider,527,3/4/13,Paper/Films
+ME,Healthcare Provider,1920,3/4/13,Email
+CA,Business Associate,18162,3/4/13,Laptop
+MA,Business Associate,6332,3/6/13,Other Portable Electronic Device
+OH,Healthcare Provider,1200,3/6/13,Desktop Computer
+CT,Healthcare Provider,1382,3/8/13,Network Server
+FL,Healthcare Provider,12299,3/9/13,Laptop
+MN,Business Associate,6400,3/12/13,Network Server
+IN,Business Associate,1678,3/14/13,Network Server
+FL,Healthcare Provider,628,3/15/13,"Desktop Computer, Paper/Films"
+OR,Healthcare Provider,3269,3/15/13,"Desktop Computer, Electronic Medical Record"
+TX,,,3/19/13,
+MA,Healthcare Provider,8727,3/20/13,Network Server
+MS,Healthcare Provider,500,3/21/13,Laptop
+UT,Healthcare Provider,2600,3/22/13,Paper/Films
+TX,Healthcare Provider,697,3/22/13,Paper/Films
+OR,Healthcare Provider,,3/26/13,Laptop
+RI,Healthcare Provider,2082,3/29/13,Paper/Films
+WA,Business Associate,629,3/29/13,Laptop
+CA,Business Associate,2400,3/29/13,Paper/Films
+FL,Healthcare Provider,1025,4/2/13,Electronic Medical Record
+FL,Healthcare Provider,14519,4/3/13,Network Server
+IL,Healthcare Provider,12542,4/3/13,Electronic Medical Record
+VA,Business Associate,2360,4/4/13,Network Server
+NC,Healthcare Provider,5370,4/4/13,"Laptop, Paper/Films"
+TX,Healthcare Provider,554,4/5/13,Paper/Films
+PA,Business Associate,3794,4/5/13,Paper/Films
+SC,Healthcare Provider,7405,4/10/13,Laptop
+MO,Healthcare Provider,589,4/11/13,Paper/Films
+OR,Healthcare Provider,1076,4/11/13,Laptop
+IN,Healthcare Provider,3131,4/12/13,Other
+NY,Healthcare Provider,1416,4/17/13,Desktop Computer
+TX,Healthcare Provider,818,4/25/13,Email
+UT,Healthcare Provider,857,4/26/13,Other
+UT,Healthcare Provider,700,4/26/13,Desktop Computer
+CA,Business Associate,14829,4/29/13,Paper/Films
+NC,Healthcare Provider,17300,4/30/13,Paper/Films
+NC,Healthcare Provider,1580,5/1/13,Desktop Computer
+AZ,Healthcare Provider,3800,5/1/13,Other Portable Electronic Device
+OH,Healthcare Provider,2500,5/3/13,Other
+NY,Healthcare Provider,537,5/6/13,Other Portable Electronic Device
+PA,Business Associate,22000,5/7/13,Other Portable Electronic Device
+TX,Business Associate,189489,5/7/13,Paper/Films
+WA,Healthcare Provider,750,5/7/13,Paper/Films
+TN,Healthcare Provider,1180,5/7/13,Email
+NC,Business Associate,9988,5/8/13,Network Server
+TN,Business Associate,539,5/8/13,Desktop Computer
+NC,Business Associate,1924,5/10/13,Network Server
+IN,Healthcare Provider,10350,5/13/13,Laptop
+NY,Healthcare Provider,10000,5/14/13,Email
+OH,Healthcare Provider,9577,5/20/13,Laptop
+PA,Healthcare Provider,7803,5/20/13,Network Server
+IN,Business Associate,5388,5/20/13,Other
+IN,Healthcare Provider,2723,5/21/13,Desktop Computer
+AR,Healthcare Provider,1900,5/23/13,Other
+CA,Business Associate,3164,5/24/13,Laptop
+NY,Health Plan,2434,5/24/13,Laptop
+CA,Healthcare Provider,1386,5/24/13,Other
+VA,Healthcare Provider,5764,5/29/13,Electronic Medical Record
+FL,Healthcare Provider,5875,5/30/13,Electronic Medical Record
+OH,Healthcare Provider,1167,6/3/13,Email
+MA,Healthcare Provider,1670,6/5/13,Desktop Computer
+FL,Healthcare Provider,877,6/11/13,Desktop Computer
+CA,Healthcare Provider,12900,6/13/13,Laptop
+NC,Healthcare Provider,1093,6/14/13,Paper/Films
+OR,Healthcare Provider,959,6/14/13,Paper/Films
+MO,Health Plan,1127,6/17/13,Email
+FL,Healthcare Provider,9626,6/17/13,"Desktop Computer, Electronic Medical Record, Email, Network Server, Paper/Films"
+FL,Healthcare Provider,5200,6/24/13,Paper/Films
+IA,Healthcare Provider,7335,6/26/13,Other
+NE,Healthcare Provider,2125,6/26/13,Other Portable Electronic Device
+TX,Healthcare Provider,1955,6/28/13,Laptop
+PR,Business Associate,679,6/28/13,Laptop
+IN,Business Associate,187533,7/1/13,Paper/Films
+AZ,Business Associate,4305,7/2/13,Paper/Films
+CA,Health Plan,8331,7/2/13,Paper/Films
+FL,Healthcare Provider,900,7/3/13,Laptop
+OH,Healthcare Provider,2203,7/3/13,Paper/Films
+NC,Healthcare Provider,609,7/5/13,Email
+CA,,4479,7/5/13,Email
+IL,Business Associate,3133,7/8/13,Paper/Films
+CA,Business Associate,4718,7/10/13,Paper/Films
+TX,Healthcare Provider,2462,7/10/13,Laptop
+MN,Healthcare Provider,2764,7/10/13,Paper/Films
+TX,Business Associate,277014,7/11/13,Other
+CA,Healthcare Provider,2864,7/11/13,Electronic Medical Record
+IL,,,7/15/13,
+WY,,2700,7/15/13,Desktop Computer
+MO,,4560,7/15/13,Other
+TX,Health Plan,21000,7/16/13,Desktop Computer
+CA,Business Associate,800,7/18/13,"Desktop Computer, Network Server"
+FL,Healthcare Provider,710,7/19/13,Desktop Computer
+NY,Healthcare Provider,2700,7/20/13,Other Portable Electronic Device
+LA,Healthcare Provider,6994,7/22/13,Desktop Computer
+LA,,,7/25/13,
+OR,Healthcare Provider,1361,7/28/13,Other
+CO,Healthcare Provider,532,7/31/13,Email
+CA,Healthcare Provider,1837,8/2/13,Laptop
+AR,Business Associate,1911,8/5/13,Laptop
+TX,Healthcare Provider,940,8/5/13,Other Portable Electronic Device
+NV,Business Associate,32151,8/8/13,Network Server
+OH,Healthcare Provider,2045,8/12/13,Laptop
+IN,Healthcare Provider,1396,8/12/13,Electronic Medical Record
+IN,Business Associate,5497,8/13/13,Other
+MO,Business Associate,1357,8/13/13,Paper/Films
+TN,Healthcare Provider,5690,8/15/13,Laptop
+CA,Healthcare Provider,1033,8/16/13,Paper/Films
+TX,Healthcare Provider,3200,8/19/13,Other Portable Electronic Device
+ND,Health Plan,10000,8/21/13,"Desktop Computer, Other, Other Portable Electronic Device, Paper/Films"
+FL,Healthcare Provider,1471,8/22/13,"Other, Paper/Films"
+IL,Healthcare Provider,4029530,8/23/13,Desktop Computer
+CO,Healthcare Provider,921,8/27/13,Desktop Computer
+TX,Healthcare Provider,596,8/28/13,Laptop
+TN,Business Associate,32000,8/30/13,Network Server
+GA,Healthcare Provider,654,8/30/13,Email
+MO,Healthcare Provider,2600,8/30/13,"Laptop, Other Portable Electronic Device"
+IN,Health Plan,,9/3/13,Desktop Computer
+CO,Healthcare Provider,1500,9/3/13,Laptop
+MO,Healthcare Provider,10000,9/3/13,"Desktop Computer, Network Server"
+OR,Health Plan,647,9/3/13,Electronic Medical Record
+CA,Healthcare Provider,2182,9/6/13,Laptop
+IL,Business Associate,1290,9/6/13,Other
+PR,Business Associate,5000,9/11/13,Network Server
+FL,Healthcare Provider,915,9/12/13,Other Portable Electronic Device
+TN,Healthcare Provider,4268,9/13/13,Other
+SC,Healthcare Clearing House,4204,9/13/13,Other
+IL,,2029,9/13/13,Network Server
+IL,,998,9/13/13,Network Server
+NY,Healthcare Provider,8000,9/16/13,Network Server
+FL,Healthcare Provider,915,9/16/13,Other
+CA,Healthcare Provider,1009,9/20/13,Electronic Medical Record
+MO,Business Associate,25461,9/20/13,Paper/Films
+FL,Healthcare Provider,9900,9/24/13,"Desktop Computer, Network Server"
+VA,Healthcare Provider,10228,9/26/13,Email
+OH,Healthcare Provider,1360,9/27/13,Laptop
+CA,Healthcare Provider,579,9/27/13,Laptop
+CO,,3512,9/28/13,Laptop
+OH,Healthcare Provider,517,9/30/13,"Desktop Computer, Network Server"
+TN,Healthcare Provider,6932,9/30/13,Laptop
+NJ,Healthcare Provider,2500,10/1/13,Laptop
+IA,Healthcare Provider,1825,10/2/13,Electronic Medical Record
+GA,,5232,10/2/13,Email
+CA,Healthcare Provider,3553,10/3/13,"Laptop, Paper/Films"
+PA,Healthcare Provider,2350,10/3/13,Paper/Films
+WA,Healthcare Provider,1015,10/3/13,Paper/Films
+PA,Healthcare Provider,2810,10/4/13,Laptop
+NC,Healthcare Provider,1310,10/4/13,Email
+NY,Healthcare Provider,1586,10/4/13,Paper/Films
+TN,Business Associate,4330,10/4/13,Paper/Films
+MO,Healthcare Provider,3100,10/7/13,Email
+IL,Business Associate,7120,10/9/13,Network Server
+MI,Healthcare Provider,3947,10/11/13,Network Server
+IN,Healthcare Provider,566,10/14/13,Laptop
+CO,Healthcare Provider,606,10/14/13,Paper/Films
+IL,Healthcare Provider,1067,10/14/13,Email
+VT,Healthcare Provider,550,10/15/13,Laptop
+AK,Healthcare Provider,1556,10/16/13,Email
+FL,Healthcare Provider,960,10/17/13,Desktop Computer
+NY,Healthcare Provider,610,10/21/13,Other Portable Electronic Device
+TX,Healthcare Provider,949,10/22/13,Desktop Computer
+MI,Healthcare Provider,3947,10/23/13,Network Server
+TX,Healthcare Provider,5500,10/23/13,Laptop
+NY,,10930,10/25/13,Network Server
+NY,,37000,10/25/13,Network Server
+CA,Healthcare Provider,3833,10/25/13,Laptop
+WI,Healthcare Provider,631,10/25/13,Laptop
+CA,Healthcare Provider,729000,10/25/13,Laptop
+TX,Healthcare Provider,5840,10/28/13,Desktop Computer
+FL,Business Associate,603,10/29/13,Paper/Films
+FL,Healthcare Provider,10680,10/29/13,Laptop
+PA,Healthcare Clearing House,2300,10/31/13,Network Server
+IL,Healthcare Provider,2237,11/1/13,Laptop
+SC,Healthcare Provider,3500,11/1/13,Laptop
+TX,Health Plan,6284,11/1/13,Paper/Films
+PA,Healthcare Provider,1167,11/1/13,Other Portable Electronic Device
+CO,Healthcare Provider,651,11/2/13,Electronic Medical Record
+MN,Healthcare Provider,3807,11/4/13,Electronic Medical Record
+NJ,Healthcare Provider,1100,11/5/13,Laptop
+CA,Healthcare Provider,11500,11/5/13,Laptop
+NC,Health Plan,687,11/7/13,Paper/Films
+NC,Healthcare Provider,1315,11/8/13,Other
+PR,Business Associate,13336,11/8/13,Paper/Films
+NC,Healthcare Provider,7300,11/8/13,Other
+ND,Healthcare Provider,2000,11/12/13,Paper/Films
+MD,Healthcare Provider,7606,11/12/13,Email
+AZ,Business Associate,1456,11/13/13,Other
+NY,Healthcare Provider,2279,11/13/13,Other Portable Electronic Device
+IL,Business Associate,3804,11/14/13,Laptop
+IL,Business Associate,4837,11/14/13,Laptop
+GA,Healthcare Provider,1300,11/15/13,Laptop
+WI,Healthcare Provider,9328,11/18/13,Other Portable Electronic Device
+CA,Healthcare Provider,1039,11/19/13,Other Portable Electronic Device
+CA,Healthcare Provider,8294,11/22/13,"Laptop, Paper/Films"
+NJ,Health Plan,9825,11/22/13,Other Portable Electronic Device
+CA,Healthcare Provider,49000,11/22/13,Other Portable Electronic Device
+TX,Health Plan,,11/26/13,Other
+IN,Healthcare Provider,1500,11/26/13,Desktop Computer
+WA,Healthcare Provider,950,11/26/13,Laptop
+PA,Healthcare Provider,1279,11/27/13,Electronic Medical Record
+WA,Healthcare Provider,76183,11/27/13,Desktop Computer
+IL,Healthcare Provider,2080,11/29/13,Network Server
+FL,Healthcare Provider,1000,12/4/13,Paper/Films
+OH,Health Plan,643,12/6/13,Paper/Films
+IL,Business Associate,1573,12/6/13,Email
+IL,Healthcare Provider,1891,12/6/13,Laptop
+GA,Healthcare Provider,5000,12/6/13,Desktop Computer
+GA,Healthcare Provider,4500,12/6/13,Laptop
+IL,Healthcare Provider,17350,12/6/13,Paper/Films
+TX,Healthcare Provider,44000,12/6/13,Other
+FL,Healthcare Provider,4400,12/9/13,Desktop Computer
+GA,Healthcare Provider,4879,12/10/13,Laptop
+KY,Healthcare Provider,535,12/10/13,Other Portable Electronic Device
+CA,Healthcare Provider,59000,12/10/13,Network Server
+NE,Healthcare Provider,3857,12/11/13,Email
+NY,Business Associate,9642,12/12/13,Other Portable Electronic Device
+CA,Business Associate,1499,12/16/13,Network Server
+WY,Health Plan,11935,12/16/13,Network Server
+MT,Healthcare Provider,1900,12/17/13,"Desktop Computer, Email"
+SC,Business Associate,3432,12/18/13,Laptop
+WY,Health Plan,11935,12/19/13,Network Server
+TN,Business Associate,2777,12/19/13,Laptop
+CA,Business Associate,1674,12/20/13,Paper/Films
+TX,Health Plan,2826,12/21/13,Paper/Films
+CA,Healthcare Provider,1400,12/23/13,Desktop Computer
+MA,Healthcare Provider,832,12/23/13,Email
+NC,Healthcare Provider,1683,12/23/13,Paper/Films
+FL,Healthcare Provider,2354,12/23/13,Desktop Computer
+FL,Healthcare Provider,9017,12/31/13,"Laptop, Network Server"
+NM,Healthcare Provider,12354,12/31/13,Laptop
+CO,Business Associate,1918,1/2/14,Email
+NJ,Business Associate,839711,1/3/14,Laptop
+GA,Healthcare Provider,6989,1/3/14,Desktop Computer
+WA,Healthcare Provider,2500,1/3/14,"Email, Laptop, Network Server"
+MI,Business Associate,3000,1/6/14,Paper/Films
+NC,Health Plan,48752,1/6/14,Other
+CA,,2500,1/8/14,Laptop
+MS,Healthcare Provider,1489,1/10/14,Network Server
+VA,Business Associate,25513,1/10/14,Paper/Films
+IL,Healthcare Provider,22511,1/11/14,Email
+OH,Healthcare Provider,953,1/13/14,Other
+OH,Health Plan,4230,1/13/14,Network Server
+TN,Healthcare Provider,9602,1/15/14,Laptop
+TX,,,1/16/14,
+CT,Healthcare Provider,858,1/16/14,Paper/Films
+VA,Healthcare Provider,3861,1/16/14,Electronic Medical Record
+MI,Healthcare Provider,5370,1/16/14,Network Server
+KS,Healthcare Provider,1700,1/21/14,Other Portable Electronic Device
+NY,Healthcare Provider,937,1/21/14,"Desktop Computer, Paper/Films"
+NY,Healthcare Provider,2172,1/22/14,Other Portable Electronic Device
+PA,Healthcare Provider,3101,1/23/14,Paper/Films
+CA,Business Associate,611,1/24/14,Laptop
+,Health Plan,398000,1/24/14,Network Server
+PR,Business Associate,8000,1/24/14,Network Server
+AL,Business Associate,1085,1/24/14,Other
+OH,Business Associate,1420,1/27/14,Paper/Films
+WI,Business Associate,41437,1/30/14,Other Portable Electronic Device
+TX,Healthcare Provider,3598,1/31/14,Other Portable Electronic Device
+IL,Healthcare Provider,836,1/31/14,Paper/Films
+DE,Healthcare Provider,1883,1/31/14,Laptop
+TX,Healthcare Provider,405000,2/5/14,Network Server
+CA,Healthcare Provider,4676,2/5/14,Other Portable Electronic Device
+CA,,3026,2/7/14,Laptop
+GA,Healthcare Provider,841,2/7/14,Laptop
+IL,Healthcare Provider,16446,2/10/14,"Electronic Medical Record, Other"
+WA,Health Plan,3104,2/11/14,Paper/Films
+NY,Healthcare Provider,6475,2/12/14,Laptop
+FL,Healthcare Provider,13074,2/12/14,Paper/Films
+PA,Healthcare Provider,593,2/13/14,Network Server
+OH,Health Plan,1139,2/14/14,Other
+CA,Healthcare Provider,2269,2/14/14,Email
+IN,Healthcare Provider,1142,2/18/14,Laptop
+MN,Business Associate,10024,2/21/14,Network Server
+MN,Business Associate,520,2/21/14,Network Server
+MN,Business Associate,4786,2/21/14,Network Server
+NJ,Healthcare Provider,1411,2/21/14,Desktop Computer
+MN,Business Associate,1511,2/25/14,Network Server
+VA,Healthcare Provider,3458,2/26/14,Laptop
+PA,Business Associate,8845,2/26/14,Other
+OH,Healthcare Provider,504,2/26/14,Electronic Medical Record
+NC,Healthcare Provider,548,2/26/14,Laptop
+TX,Healthcare Provider,7500,2/27/14,Desktop Computer
+GA,Business Associate,600,2/28/14,Other
+CA,Healthcare Provider,3534,3/4/14,Paper/Films
+TX,Business Associate,3300,3/5/14,Network Server
+AZ,Healthcare Provider,55207,3/5/14,Other
+AL,Business Associate,1145,3/7/14,Network Server
+AL,Business Associate,1179,3/10/14,Network Server
+IA,Health Plan,2042,3/10/14,"Email, Laptop, Other Portable Electronic Device"
+CA,Healthcare Provider,7800,3/12/14,Email
+CA,Healthcare Provider,9861,3/12/14,Desktop Computer
+MI,Healthcare Provider,1087,3/13/14,Paper/Films
+TX,Healthcare Provider,5000,3/13/14,Other
+CO,Healthcare Provider,5415,3/14/14,"Desktop Computer, Laptop"
+AZ,Healthcare Provider,1706,3/16/14,Laptop
+TX,Business Associate,2260,3/17/14,Other Portable Electronic Device
+MN,Business Associate,1746,3/18/14,Network Server
+KY,Healthcare Provider,1000,3/20/14,Electronic Medical Record
+MN,Health Plan,27839,3/21/14,"Desktop Computer, Laptop, Other Portable Electronic Device"
+MN,Business Associate,796,3/21/14,"Desktop Computer, Laptop, Other Portable Electronic Device"
+MN,Business Associate,1699,3/21/14,"Desktop Computer, Laptop, Other Portable Electronic Device"
+MN,Business Associate,715,3/21/14,"Desktop Computer, Laptop, Other Portable Electronic Device"
+CA,,55900,3/21/14,Desktop Computer
+CA,Business Associate,55900,3/21/14,Desktop Computer
+WA,Business Associate,1079,3/24/14,Laptop
+MT,Healthcare Provider,543,3/24/14,Paper/Films
+FL,Healthcare Provider,586,3/24/14,Other Portable Electronic Device
+IL,Healthcare Provider,1000,3/25/14,"Laptop, Other Portable Electronic Device"
+VA,Healthcare Provider,5534,3/27/14,Other Portable Electronic Device
+PA,Healthcare Provider,657,3/27/14,Email
+KY,Healthcare Provider,2992,3/28/14,Email
+WA,Healthcare Provider,8300,3/28/14,Email
+CA,Healthcare Provider,5499,3/28/14,Other Portable Electronic Device
+UT,Healthcare Provider,643,3/29/14,Email
+TX,,1000,3/31/14,Other
+FL,Business Associate,580,3/31/14,Paper/Films
+IL,Healthcare Provider,1256,3/31/14,Email
+MD,Health Plan,214000,4/1/14,Laptop
+CA,Healthcare Provider,5178,4/2/14,Network Server
+PR,Health Plan,5795,4/2/14,Other
+PR,Health Plan,17776,4/3/14,Other
+MI,Healthcare Provider,2595,4/3/14,Other Portable Electronic Device
+IL,Healthcare Provider,836,4/4/14,Paper/Films
+KS,Healthcare Provider,979,4/9/14,Paper/Films
+CT,Business Associate,527,4/9/14,Paper/Films
+VA,Business Associate,75026,4/10/14,Paper/Films
+MO,Health Plan,2546,4/11/14,Other
+TN,Healthcare Provider,1144,4/14/14,Paper/Films
+CA,Healthcare Provider,793,4/14/14,Other Portable Electronic Device
+MD,Health Plan,5000,4/15/14,Other
+PR,Business Associate,7911,4/15/14,Other Portable Electronic Device
+,,46473,4/15/14,Other Portable Electronic Device
+MS,Healthcare Provider,3750,4/16/14,Other
+MD,Business Associate,10766,4/17/14,Network Server
+GA,Business Associate,2523,4/17/14,Paper/Films
+OH,Healthcare Provider,617,4/18/14,Paper/Films
+IA,,1400,4/18/14,Paper/Films
+ID,Healthcare Provider,6900,4/18/14,Other Portable Electronic Device
+CO,Healthcare Provider,12286,4/22/14,Email
+FL,Healthcare Provider,2365,4/23/14,Laptop
+MA,Health Plan,8830,4/24/14,Other
+DC,Business Associate,2200,4/24/14,Paper/Films
+NY,Health Plan,4830,4/24/14,Email
+UT,Health Plan,9800,4/24/14,Network Server
+TX,Healthcare Provider,1253,4/25/14,Email
+TX,Healthcare Provider,2308,4/25/14,Email
+TX,Healthcare Provider,1981,4/25/14,Email
+TX,Healthcare Provider,2742,4/25/14,Email
+IN,Business Associate,1361,4/25/14,Network Server
+IA,Health Plan,862,4/25/14,Paper/Films
+AL,Healthcare Provider,629,4/25/14,Paper/Films
+PA,Healthcare Provider,1845,4/29/14,Paper/Films
+MA,Business Associate,15265,4/29/14,Other
+IL,Business Associate,5696,4/30/14,Paper/Films
+MA,Healthcare Provider,2387,5/5/14,"Electronic Medical Record, Paper/Films"
+UT,Healthcare Provider,,5/6/14,Network Server
+IN,Business Associate,1008,5/6/14,Email
+NJ,Healthcare Provider,2828,5/9/14,Paper/Films
+NM,,4744,5/10/14,Paper/Films
+TX,Healthcare Provider,1000,5/10/14,Laptop
+PR,Health Plan,11531,5/18/14,Paper/Films
+OR,Healthcare Provider,17914,5/19/14,Other
+MI,,502,5/19/14,Email
+NH,Healthcare Provider,1208,5/21/14,Desktop Computer
+NJ,Business Associate,342197,5/22/14,"Email, Laptop"
+KY,Health Plan,2962,5/23/14,Other Portable Electronic Device
+NY,Healthcare Provider,26162,5/23/14,Desktop Computer
+OH,Healthcare Provider,594,5/28/14,"Electronic Medical Record, Network Server"
+PR,Health Plan,56853,5/29/14,Paper/Films
+OK,Business Associate,3814,5/30/14,Laptop
+KS,Healthcare Provider,9640,6/5/14,Email
+MN,Healthcare Provider,1304,6/5/14,Email
+CA,Healthcare Provider,5845,6/6/14,Desktop Computer
+PA,Healthcare Provider,1801,6/6/14,"Email, Other Portable Electronic Device"
+IL,Healthcare Provider,540,6/6/14,"Desktop Computer, Paper/Films"
+GA,Healthcare Provider,1175,6/9/14,Email
+FL,Business Associate,9255,6/11/14,Other
+FL,Business Associate,1831,6/12/14,Other
+CA,Healthcare Provider,33702,6/13/14,Other Portable Electronic Device
+TX,Healthcare Provider,2874,6/13/14,Electronic Medical Record
+MI,Health Plan,2289,6/16/14,Email
+MD,Health Plan,620,6/19/14,Other
+PA,Healthcare Provider,11000,6/19/14,Other
+NY,Healthcare Provider,97000,6/20/14,"Desktop Computer, Other Portable Electronic Device"
+NY,Healthcare Provider,872,6/20/14,Laptop
+CA,Healthcare Provider,5471,6/20/14,Desktop Computer
+CO,Healthcare Provider,750,6/23/14,Laptop
+NY,Healthcare Provider,2000,6/24/14,Electronic Medical Record
+CA,Healthcare Provider,563,6/24/14,Laptop
+CA,Healthcare Provider,14121,6/24/14,Email
+CA,Healthcare Provider,6307,6/25/14,"Email, Other"
+AL,Healthcare Provider,1200,6/26/14,Electronic Medical Record
+MD,Healthcare Provider,42713,6/27/14,Laptop
+CA,Healthcare Provider,592,7/4/14,Paper/Films
+AL,Health Plan,1100,7/7/14,Desktop Computer
+MT,Health Plan,1062509,7/7/14,Network Server
+PA,Business Associate,2589,7/8/14,Paper/Films
+WA,Healthcare Provider,6000,7/8/14,"Desktop Computer, Laptop"
+IN,Business Associate,63325,7/9/14,Paper/Films
+AL,Business Associate,50918,7/11/14,Network Server
+NV,Healthcare Provider,12000,7/12/14,Network Server
+MD,Healthcare Provider,620,7/15/14,Paper/Films
+PA,Healthcare Provider,661,7/16/14,Paper/Films
+CA,Healthcare Provider,2780,7/16/14,Desktop Computer
+MN,Health Plan,500,7/17/14,Paper/Films
+,Health Plan,7911,7/18/14,Other Portable Electronic Device
+IL,,680,7/23/14,Network Server
+NY,Business Associate,3334,7/23/14,Network Server
+SC,Healthcare Provider,38906,7/25/14,Laptop
+AZ,Healthcare Provider,3529,7/25/14,Other
+CA,Business Associate,4000,7/28/14,Network Server
+AZ,Healthcare Provider,13877,7/29/14,"Email, Network Server"
+IL,Healthcare Provider,982,7/30/14,Laptop
+WA,Healthcare Provider,522,7/30/14,Paper/Films
+MN,Business Associate,4487,7/31/14,Network Server
+VA,Healthcare Provider,2318,7/31/14,"Electronic Medical Record, Other"
+OH,Healthcare Provider,605,8/6/14,Paper/Films
+NJ,Healthcare Provider,36400,8/7/14,Other
+GA,Business Associate,7016,8/7/14,Network Server
+UT,Healthcare Provider,31677,8/7/14,Network Server
+GA,Business Associate,10104,8/8/14,Network Server
+TX,Business Associate,60582,8/8/14,Network Server
+CA,Healthcare Provider,1251,8/12/14,Network Server
+CO,Health Plan,11551,8/12/14,Other
+TN,Healthcare Provider,28300,8/12/14,Other
+CA,Business Associate,1674,8/13/14,Other
+GA,Business Associate,520,8/14/14,Network Server
+MA,Business Associate,10000,8/15/14,Paper/Films
+CA,Business Associate,49714,8/15/14,Paper/Films
+MO,,4067,8/15/14,Network Server
+LA,Healthcare Provider,6073,8/15/14,Network Server
+CA,Healthcare Provider,500,8/18/14,Paper/Films
+IL,Healthcare Provider,13646,8/19/14,Laptop
+TN,Business Associate,4500000,8/20/14,Network Server
+OK,Healthcare Provider,6000,8/22/14,Email
+OH,Healthcare Provider,6141,8/22/14,Network Server
+GA,Healthcare Provider,2350,8/25/14,Paper/Films
+MA,Healthcare Provider,595,8/26/14,"Laptop, Other Portable Electronic Device"
+FL,Healthcare Provider,948,8/26/14,Desktop Computer
+MO,Healthcare Provider,1376,8/26/14,Paper/Films
+NY,Health Plan,802,8/27/14,Paper/Films
+GA,Healthcare Provider,720,8/28/14,Other
+TN,Health Plan,1717,8/29/14,Other
+NC,Healthcare Provider,10993,8/29/14,Other Portable Electronic Device
+TX,Healthcare Provider,10604,8/29/14,Desktop Computer
+CA,Healthcare Provider,3206,8/29/14,"Desktop Computer, Network Server, Paper/Films"
+GA,Healthcare Provider,10000,9/4/14,Paper/Films
+TN,Business Associate,566,9/4/14,Paper/Films
+PA,Healthcare Provider,3780,9/5/14,Desktop Computer
+IN,Health Plan,1464,9/8/14,Paper/Films
+NY,Healthcare Provider,914,9/9/14,Other Portable Electronic Device
+TX,Healthcare Provider,789,9/9/14,"Laptop, Other Portable Electronic Device"
+KY,Healthcare Provider,697,9/9/14,Other
+FL,Business Associate,82601,9/9/14,Electronic Medical Record
+SC,Healthcare Provider,3637,9/10/14,Paper/Films
+IL,Healthcare Provider,1866,9/10/14,Paper/Films
+TX,Business Associate,2000000,9/10/14,"Desktop Computer, Email, Laptop, Network Server, Other, Other Portable Electronic Device"
+CA,Healthcare Provider,33136,9/10/14,Laptop
+FL,Healthcare Provider,675,9/12/14,Electronic Medical Record
+NM,Healthcare Provider,843,9/12/14,Other Portable Electronic Device
+TN,Business Associate,800,9/12/14,Paper/Films
+IL,Business Associate,767,9/17/14,Email
+NM,Healthcare Provider,2657,9/18/14,Paper/Films
+KY,Business Associate,4077,9/22/14,Other Portable Electronic Device
+CO,Healthcare Provider,523,9/26/14,Laptop
+LA,Healthcare Provider,707,9/26/14,"Laptop, Other"
+AL,Healthcare Provider,2588,9/30/14,Laptop
+MI,Health Plan,6302,10/1/14,Other
+NY,Healthcare Provider,10793,10/3/14,Laptop
+TN,Healthcare Provider,307528,10/3/14,Network Server
+OR,Healthcare Provider,1320,10/6/14,Laptop
+NJ,Business Associate,585,10/6/14,Network Server
+PA,Business Associate,1667,10/7/14,Paper/Films
+TX,Healthcare Provider,810,10/8/14,Desktop Computer
+CA,Healthcare Provider,1326,10/8/14,Email
+TX,Healthcare Provider,4000,10/9/14,Paper/Films
+NC,Healthcare Provider,1872,10/9/14,Paper/Films
+GA,Healthcare Provider,3397,10/9/14,Laptop
+NY,Healthcare Provider,835,10/10/14,Other Portable Electronic Device
+CO,Health Plan,15380,10/10/14,Other
+TX,Business Associate,4500,10/10/14,Network Server
+NY,Healthcare Provider,10058,10/10/14,Paper/Films
+VA,Healthcare Provider,568,10/10/14,Paper/Films
+TX,Healthcare Provider,1000,10/15/14,Laptop
+CA,Healthcare Provider,1863,10/15/14,Other
+NJ,Business Associate,35357,10/22/14,Network Server
+KY,Healthcare Provider,727,10/22/14,Paper/Films
+NY,Healthcare Provider,20000,10/22/14,Paper/Films
+FL,Healthcare Provider,3500,10/28/14,Network Server
+TX,Health Plan,507,10/28/14,Other Portable Electronic Device
+OR,Healthcare Provider,1740,10/29/14,Paper/Films
+FL,Healthcare Provider,1782,10/30/14,Email
+PA,Healthcare Provider,13907,10/31/14,Laptop
+FL,Healthcare Provider,7888,11/3/14,"Desktop Computer, Network Server"
+NC,Healthcare Provider,76258,11/7/14,Network Server
+NY,Healthcare Provider,3936,11/7/14,"Electronic Medical Record, Laptop"
+TX,Health Plan,74944,11/10/14,Network Server
+SD,,,11/13/14,
+CA,Healthcare Provider,13177,11/14/14,Network Server
+CA,Business Associate,2691,11/14/14,Paper/Films
+AZ,Healthcare Provider,1296,11/14/14,Email
+CA,Healthcare Provider,30000,11/15/14,Network Server
+MA,Healthcare Provider,999,11/17/14,"Laptop, Other Portable Electronic Device"
+PA,Healthcare Provider,860,11/19/14,Paper/Films
+NY,Health Plan,31980,11/20/14,Email
+FL,Healthcare Provider,1449,11/20/14,Electronic Medical Record
+TX,Health Plan,47683,11/21/14,Network Server
+OH,Healthcare Provider,542,11/21/14,Laptop
+TX,Business Associate,4469,11/25/14,Paper/Films
+MN,Healthcare Provider,1778,11/25/14,Paper/Films
+AL,Business Associate,25764,11/26/14,Network Server
+WY,Healthcare Provider,1607,12/1/14,Paper/Films
+UT,Healthcare Provider,623,12/5/14,Laptop
+FL,Healthcare Provider,2477,12/8/14,Email
+KY,Healthcare Provider,4500,12/9/14,Laptop
+CA,Health Plan,30000,12/12/14,"Desktop Computer, Laptop, Network Server"
+AZ,Healthcare Provider,616,12/12/14,Other Portable Electronic Device
+IL,Healthcare Provider,12621,12/12/14,Other
+MI,Healthcare Provider,1488,12/12/14,Email
+IL,Healthcare Provider,160000,12/15/14,Paper/Films
+CO,Healthcare Provider,5000,12/19/14,Laptop
+OR,Healthcare Provider,41000,12/19/14,Laptop
+CA,Healthcare Provider,,12/22/14,Other
+IL,,,12/23/14,
+PA,Health Plan,12450,12/26/14,Paper/Films
+CA,Healthcare Provider,,12/30/14,"Laptop, Other Portable Electronic Device, Paper/Films"
+FL,Healthcare Provider,1859,1/5/15,Email
+TX,Healthcare Provider,7029,1/7/15,Network Server
+MO,Healthcare Provider,4000,1/7/15,"Email, Network Server"
+IN,Healthcare Provider,43890,1/7/15,Laptop
+MI,,,1/9/15,
+CA,Healthcare Provider,1030,1/12/15,Desktop Computer
+TN,Health Plan,79000,1/13/15,Other
+OH,Healthcare Provider,833,1/15/15,Electronic Medical Record
+FL,Healthcare Provider,500,1/15/15,"Desktop Computer, Laptop"
+TX,Healthcare Provider,4920,1/16/15,Paper/Films
+NY,Healthcare Provider,5117,1/23/15,Other Portable Electronic Device
+TX,Healthcare Provider,1600,1/23/15,Desktop Computer
+CA,Healthcare Provider,845,1/23/15,Electronic Medical Record
+CA,Healthcare Provider,1285,1/28/15,Email
+WA,Healthcare Provider,2000,1/29/15,"Other Portable Electronic Device, Paper/Films"
+MD,Health Plan,630,1/29/15,Paper/Films
+CA,Healthcare Provider,7925,1/29/15,Laptop
+TX,Healthcare Provider,678,1/29/15,Laptop
+MA,Healthcare Provider,14100,1/30/15,Other
+TN,Healthcare Provider,56694,2/2/15,Other Portable Electronic Device
+MS,Healthcare Provider,19000,2/4/15,Paper/Films
+OH,Healthcare Provider,5000,2/5/15,Paper/Films
+NY,Health Plan,2772,2/6/15,"Laptop, Other Portable Electronic Device"
+IL,Business Associate,680,2/9/15,Paper/Films
+NC,Healthcare Provider,955,2/9/15,Paper/Films
+HI,Business Associate,2809,2/11/15,Paper/Films
+FL,Healthcare Provider,600,2/12/15,Email
+IN,Health Plan,,2/13/15,Network Server
+TX,Healthcare Provider,3000,2/18/15,Other
+TX,Health Plan,8700,2/20/15,Other
+DC,Healthcare Provider,18000,2/24/15,Email
+NV,Healthcare Provider,2153,2/26/15,Laptop
+IN,Healthcare Provider,63325,2/27/15,Paper/Films
+CA,Healthcare Provider,3224,2/27/15,Network Server
+FL,Healthcare Provider,686,2/27/15,"Desktop Computer, Electronic Medical Record"
+LA,Healthcare Provider,6909,3/1/15,"Desktop Computer, Electronic Medical Record, Laptop"
+GA,Healthcare Provider,570,3/2/15,Network Server
+GA,Health Plan,557779,3/2/15,Network Server
+GA,Health Plan,355127,3/2/15,Network Server
+KS,Healthcare Provider,4668,3/3/15,Paper/Films
+IN,Healthcare Provider,3952,3/5/15,Email
+OR,Healthcare Provider,2207,3/5/15,Paper/Films
+CA,Healthcare Provider,1342,3/5/15,Paper/Films
+CA,Healthcare Provider,1233,3/6/15,Laptop
+IN,Health Plan,38351,3/6/15,Other Portable Electronic Device
+CA,Healthcare Provider,2500,3/6/15,Other
+NY,Healthcare Provider,7448,3/11/15,"Other, Paper/Films"
+VA,Health Plan,697586,3/12/15,Network Server
+IN,Health Plan,78800000,3/13/15,Network Server
+OK,Healthcare Provider,4000,3/13/15,"Desktop Computer, Network Server"
+FL,Healthcare Provider,14177,3/16/15,Email
+WA,Health Plan,11000000,3/17/15,Network Server
+MI,Health Plan,3903,3/17/15,Paper/Films
+OR,Healthcare Provider,151626,3/18/15,Other
+IL,Health Plan,2743,3/19/15,Network Server
+TX,Healthcare Provider,600,3/19/15,Laptop
+IN,Healthcare Provider,650,3/20/15,Paper/Films
+FL,Healthcare Provider,8700,3/20/15,Other
+FL,Healthcare Provider,1406,3/20/15,Paper/Films
+MA,Healthcare Provider,2473,3/20/15,Paper/Films
+TX,Health Plan,50000,3/23/15,Network Server
+NY,Health Plan,43068,3/24/15,Network Server
+FL,Healthcare Provider,627,3/24/15,Paper/Films
+IL,Health Plan,880,3/24/15,Network Server
+TX,Health Plan,1688,3/25/15,Network Server
+FL,Health Plan,500,3/27/15,"Desktop Computer, Electronic Medical Record, Email, Network Server"
+TX,Healthcare Provider,7700,3/27/15,Network Server
+,Health Plan,1458,3/31/15,Other
+CO,Healthcare Provider,508,4/2/15,Paper/Films
+TN,Health Plan,862,4/2/15,Paper/Films
+SC,Health Plan,550,4/2/15,Network Server
+CA,Healthcare Provider,826,4/2/15,Paper/Films
+GA,Health Plan,958,4/2/15,Paper/Films
+PA,Healthcare Provider,81463,4/2/15,"Desktop Computer, Paper/Films"
+MT,Healthcare Provider,7038,4/2/15,Other
+CA,Healthcare Provider,845,4/2/15,Email
+NV,Healthcare Provider,8791,4/3/15,Electronic Medical Record
+IL,Health Plan,782,4/3/15,Network Server
+MN,Health Plan,10946,4/3/15,Network Server
+TX,Healthcare Provider,873,4/3/15,Email
+MN,Healthcare Provider,838,4/6/15,Paper/Films
+FL,Health Plan,3074,4/7/15,Network Server
+KY,Health Plan,5440,4/9/15,Network Server
+TX,Healthcare Provider,874,4/9/15,Other Portable Electronic Device
+IN,Healthcare Provider,756,4/10/15,Email
+NY,Healthcare Provider,563,4/10/15,Laptop
+IL,Healthcare Provider,2984,4/13/15,Paper/Films
+MO,Health Plan,12500,4/16/15,Network Server
+CA,Healthcare Provider,1787,4/16/15,Other
+NJ,Healthcare Provider,1447,4/17/15,Email
+,Health Plan,500,4/22/15,Desktop Computer
+OH,Healthcare Provider,2584,4/23/15,Paper/Films
+MD,Healthcare Provider,24967,4/24/15,Email
+TX,Healthcare Provider,39000,4/24/15,Email
+TN,Healthcare Provider,1726,4/24/15,"Other, Paper/Films"
+OH,Healthcare Provider,2000,4/27/15,Paper/Films
+TX,Health Plan,880,4/27/15,Network Server
+KS,Healthcare Provider,864,4/28/15,Paper/Films
+IL,Healthcare Provider,3000,4/28/15,Laptop
+CA,Healthcare Provider,4885,4/28/15,"Desktop Computer, Electronic Medical Record, Email, Laptop, Network Server, Other Portable Electronic Device"
+NY,Healthcare Provider,3334,4/28/15,Email
+NY,Healthcare Provider,90060,4/28/15,Email
+CA,Healthcare Provider,880,4/29/15,Paper/Films
+MA,Healthcare Provider,3321,5/1/15,Network Server
+IL,Healthcare Provider,1138,5/1/15,Paper/Films
+CA,Healthcare Provider,1339,5/6/15,Paper/Films
+FL,Healthcare Provider,1000,5/11/15,"Email, Network Server, Other Portable Electronic Device"
+PA,Healthcare Provider,2259,5/15/15,Other
+NC,Business Associate,20512,5/15/15,Other
+PA,Healthcare Provider,1551,5/15/15,Desktop Computer
+OH,Healthcare Provider,981,5/15/15,Desktop Computer
+GA,Health Plan,6166,5/15/15,Paper/Films
+MN,Healthcare Provider,4725,5/18/15,Laptop
+IL,Healthcare Provider,632,5/19/15,Desktop Computer
+CA,,1342,5/19/15,"Desktop Computer, Laptop, Paper/Films"
+FL,Healthcare Provider,506,5/20/15,Laptop
+MD,Health Plan,1100000,5/20/15,Network Server
+IL,Healthcare Provider,8300,5/21/15,Paper/Films
+IN,Healthcare Provider,306789,5/22/15,Email
+NY,Healthcare Provider,3403,5/22/15,Paper/Films
+NY,Healthcare Provider,567,5/28/15,Electronic Medical Record
+NY,Healthcare Provider,3957,6/1/15,Email
+OR,Health Plan,14000,6/1/15,Laptop
+PA,Healthcare Provider,2345,6/3/15,"Other, Paper/Films"
+CA,Business Associate,995,6/3/15,Laptop
+SC,Healthcare Provider,50000,6/4/15,Other Portable Electronic Device
+CA,Healthcare Provider,1170,6/4/15,"Desktop Computer, Other Portable Electronic Device, Paper/Films"
+CA,Healthcare Provider,6871,6/5/15,"Network Server, Other"
+MO,Healthcare Provider,503,6/9/15,Other
+MD,Healthcare Provider,500,6/9/15,"Other, Paper/Films"
+CA,Health Plan,843,6/9/15,Network Server
+CT,Healthcare Provider,2722,6/10/15,Laptop
+NV,Healthcare Provider,12000,6/10/15,"Electronic Medical Record, Laptop, Network Server, Other, Other Portable Electronic Device"
+TX,Health Plan,6600,6/11/15,Network Server
+TN,Healthcare Provider,9627,6/12/15,"Email, Laptop, Paper/Films"
+TX,Business Associate,18213,6/12/15,Laptop
+LA,Healthcare Provider,3000,6/15/15,"Desktop Computer, Electronic Medical Record, Laptop"
+CA,Healthcare Provider,4859,6/17/15,Electronic Medical Record
+NY,Healthcare Provider,4223,6/19/15,Other
+IL,Business Associate,2860,6/24/15,Network Server
+NY,Healthcare Provider,509,6/25/15,Electronic Medical Record
+RI,Healthcare Provider,12914,6/26/15,Desktop Computer
+MD,Healthcare Provider,1029,6/26/15,Electronic Medical Record
+PA,Health Plan,722,7/2/15,Email
+FL,Healthcare Provider,3421,7/2/15,Electronic Medical Record
+OK,Healthcare Provider,7693,7/3/15,Laptop
+MI,Health Plan,7666,7/3/15,Network Server
+GA,Health Plan,2983,7/8/15,Email
+MA,Healthcare Provider,648,7/8/15,Email
+FL,Health Plan,7549,7/10/15,Paper/Films
+DC,Healthcare Provider,1445,7/10/15,Paper/Films
+NY,Healthcare Provider,621,7/10/15,Paper/Films
+MN,Healthcare Provider,601,7/13/15,Electronic Medical Record
+AZ,Healthcare Provider,633,7/14/15,Other Portable Electronic Device
+AR,Health Plan,560,7/14/15,Desktop Computer
+CA,Healthcare Provider,4500000,7/17/15,Network Server
+MD,Health Plan,1475,7/20/15,Network Server
+NY,Healthcare Provider,12517,7/22/15,"Desktop Computer, Electronic Medical Record"
+IN,Business Associate,3900000,7/23/15,"Electronic Medical Record, Network Server"
+MT,Healthcare Provider,6500,7/24/15,Paper/Films
+NY,Health Plan,5338,7/24/15,Electronic Medical Record
+CT,Healthcare Provider,855,7/24/15,Electronic Medical Record
+OH,Healthcare Provider,1006,7/24/15,Other Portable Electronic Device
+MA,Healthcare Provider,12673,7/28/15,Other Portable Electronic Device
+CA,Business Associate,1494,7/29/15,Laptop
+MA,Healthcare Provider,1651,7/29/15,Paper/Films
+SD,Healthcare Provider,1111,7/30/15,Paper/Films
+SD,Healthcare Provider,13000,7/31/15,Network Server
+CA,Healthcare Provider,69246,7/31/15,Laptop
+CA,Healthcare Provider,9000,8/3/15,"Desktop Computer, Laptop"
+SD,Healthcare Provider,1168,8/4/15,Paper/Films
+MA,Healthcare Provider,2071,8/5/15,Other Portable Electronic Device
+KY,Healthcare Provider,2060,8/7/15,Email
+VT,Healthcare Provider,2000,8/7/15,"Laptop, Other Portable Electronic Device"
+TX,Healthcare Provider,1004,8/7/15,"Other Portable Electronic Device, Paper/Films"
+IL,Healthcare Provider,8345,8/7/15,Paper/Films
+OH,Healthcare Provider,1400,8/14/15,Other
+WA,Healthcare Provider,1426,8/17/15,Paper/Films
+CO,Health Plan,1622,8/18/15,Paper/Films
+MN,Healthcare Provider,160000,8/20/15,Laptop
+IL,Healthcare Provider,10000,8/21/15,Network Server
+OR,Healthcare Provider,1500,8/21/15,Email
+FL,Healthcare Provider,13000,8/24/15,Paper/Films
+CA,Healthcare Provider,1200,8/24/15,"Desktop Computer, Laptop, Network Server, Other Portable Electronic Device"
+OH,Healthcare Provider,7664,8/26/15,Other Portable Electronic Device
+CA,Healthcare Provider,2000,8/26/15,Desktop Computer
+MS,Healthcare Provider,846,8/26/15,Electronic Medical Record
+GA,Health Plan,800,8/27/15,Paper/Films
+MN,Healthcare Provider,1450,8/31/15,Laptop
+CA,Healthcare Provider,1242,9/1/15,Laptop
+FL,Healthcare Provider,1508,9/7/15,Paper/Films
+MI,Healthcare Provider,16107,9/9/15,Email
+NY,Health Plan,10000000,9/9/15,Network Server
+NC,Health Plan,807,9/11/15,Paper/Films
+NC,Health Plan,1530,9/11/15,Paper/Films
+CA,Healthcare Provider,2302,9/11/15,Email
+NY,Health Plan,721,9/14/15,Paper/Films
+LA,Healthcare Provider,14500,9/15/15,Laptop
+FL,Healthcare Provider,2075,9/16/15,Network Server
+IL,Health Plan,501,9/17/15,Paper/Films
+CA,Health Plan,54203,9/18/15,Desktop Computer
+VA,Healthcare Provider,3650,9/21/15,"Desktop Computer, Electronic Medical Record, Network Server"
+AZ,Healthcare Provider,3311,9/21/15,Paper/Films
+IL,Healthcare Provider,1009,9/24/15,"Laptop, Other"
+AZ,Business Associate,2100,9/24/15,Laptop
+NJ,Health Plan,1173,9/24/15,"Electronic Medical Record, Other"
+CA,Healthcare Provider,857,9/25/15,Network Server
+CA,Healthcare Provider,1125,9/25/15,Desktop Computer
+KY,Health Plan,2815,9/30/15,"Laptop, Paper/Films"
+AR,Healthcare Provider,6500,10/1/15,Electronic Medical Record
+VA,Healthcare Provider,1040,10/2/15,Other Portable Electronic Device
+KY,Health Plan,2873,10/6/15,Paper/Films
+MI,Business Associate,2918,10/8/15,Paper/Films
+MD,Healthcare Provider,2208,10/8/15,Paper/Films
+OK,Healthcare Provider,4278,10/9/15,Email
+MD,Healthcare Provider,571,10/9/15,Laptop
+MO,Healthcare Provider,643,10/9/15,Paper/Films
+OK,Healthcare Provider,9300,10/10/15,Laptop
+AZ,Health Plan,8208,10/15/15,Other Portable Electronic Device
+AR,Healthcare Provider,1260,10/16/15,Email
+TX,Healthcare Provider,11100,10/16/15,Network Server
+NY,Healthcare Provider,1581,10/19/15,Laptop
+FL,Health Plan,835,10/19/15,Paper/Films
+NC,Health Plan,1615,10/19/15,Email
+TX,Health Plan,1134,10/20/15,Other
+CA,Healthcare Provider,4300,10/20/15,"Laptop, Other Portable Electronic Device"
+OK,Healthcare Provider,4500,10/22/15,Email
+OH,Business Associate,540,10/23/15,Paper/Films
+FL,Healthcare Provider,500,10/23/15,Paper/Films
+SC,Healthcare Provider,1997,10/26/15,Electronic Medical Record
+TX,Healthcare Provider,16000,10/28/15,Desktop Computer
+AL,Healthcare Provider,1680,10/28/15,Laptop
+IL,Healthcare Provider,1529,11/6/15,Paper/Films
+WI,Health Plan,960,11/11/15,Paper/Films
+NY,Healthcare Provider,2300,11/12/15,Desktop Computer
+NC,Health Plan,524,11/13/15,Email
+KY,Healthcare Provider,84681,11/13/15,"Desktop Computer, Email, Laptop, Network Server, Other Portable Electronic Device"
+WA,Healthcare Provider,1300,11/13/15,Laptop
+SC,Healthcare Provider,3902,11/13/15,Network Server
+OH,Healthcare Provider,1064,11/14/15,Email
+AK,Healthcare Provider,553,11/19/15,Email
+CT,Healthcare Provider,592,11/23/15,Paper/Films
+AL,Healthcare Provider,986,11/24/15,Laptop
+NC,Healthcare Provider,1275,11/25/15,Other Portable Electronic Device
+TX,Healthcare Provider,1500,11/30/15,Laptop
+WA,Healthcare Provider,1407,11/30/15,Other
+IL,Healthcare Provider,2929,12/1/15,Paper/Films
+CA,Healthcare Provider,11000,12/1/15,Network Server
+CO,Healthcare Provider,827,12/2/15,Electronic Medical Record
+NE,Health Plan,1872,12/3/15,Paper/Films
+AZ,Healthcare Provider,810,12/3/15,Paper/Films
+CT,Healthcare Provider,946,12/4/15,Email
+ME,Healthcare Provider,500,12/8/15,Network Server
+NY,Healthcare Provider,14910,12/11/15,Email
+OR,Healthcare Provider,5327,12/11/15,"Desktop Computer, Paper/Films"
+NM,Healthcare Provider,561,12/15/15,Laptop
+NY,Health Plan,687,12/15/15,Paper/Films
+NY,Health Plan,738,12/15/15,Paper/Films
+IN,Health Plan,1708,12/18/15,Paper/Films
+ME,Healthcare Provider,854,12/18/15,Paper/Films
+TX,Healthcare Provider,659,12/22/15,Laptop
+TX,Healthcare Provider,975,12/23/15,Email
+MN,Healthcare Provider,6195,12/23/15,Paper/Films
+WI,Healthcare Provider,509,12/23/15,Laptop
+TX,Healthcare Provider,1359,12/24/15,Laptop
+CA,Healthcare Provider,1300,12/28/15,Paper/Films
+CA,Healthcare Provider,502,12/30/15,Email
+NY,Healthcare Provider,29156,12/30/15,Other Portable Electronic Device
+OH,Healthcare Provider,8830,12/31/15,Network Server
+FL,Healthcare Provider,1457,1/4/16,Paper/Films
+NY,Healthcare Provider,1200,1/6/16,Paper/Films
+MA,Healthcare Provider,1009,1/11/16,Email
+NJ,Healthcare Provider,3000,1/14/16,Desktop Computer
+TX,Healthcare Provider,1500,1/14/16,Electronic Medical Record
+CA,Health Plan,20764,1/14/16,Network Server
+GA,Health Plan,597,1/15/16,Paper/Films
+HI,Health Plan,10179,1/15/16,Paper/Films
+MT,Health Plan,28209,1/15/16,Laptop
+TX,Health Plan,794,1/21/16,Email
+IL,Healthcare Provider,1950,1/25/16,Paper/Films
+OH,Healthcare Provider,113528,1/25/16,Paper/Films
+IN,Healthcare Provider,1854,1/29/16,Paper/Films
+LA,Health Plan,13086,2/2/16,Other
+IA,Healthcare Provider,2300,2/2/16,Other
+NY,Healthcare Provider,976,2/3/16,"Desktop Computer, Other"
+MI,Healthcare Provider,700,2/5/16,Paper/Films
+NE,Business Associate,30972,2/8/16,Laptop
+WA,Health Plan,91187,2/9/16,Email
+SC,Business Associate,998,2/12/16,Paper/Films
+MI,Business Associate,552,2/12/16,Paper/Films
+FL,Healthcare Provider,483063,2/12/16,Paper/Films
+UT,Healthcare Provider,42372,2/15/16,Network Server
+FL,Healthcare Provider,24188,2/19/16,Electronic Medical Record
+TN,Healthcare Provider,3000,2/19/16,Network Server
+NY,Healthcare Provider,1200,2/24/16,Desktop Computer
+MO,Healthcare Provider,2393,2/26/16,Email
+AL,Healthcare Provider,5000,2/26/16,Other
+WA,Healthcare Provider,603,2/26/16,Paper/Films
+KS,Healthcare Provider,52076,2/26/16,Laptop
+WA,Health Plan,6248,2/26/16,Network Server
+MN,Health Plan,1550,2/26/16,Network Server
+MN,Health Plan,1550,2/26/16,Network Server
+IL,Healthcare Provider,1349,2/26/16,Other
+TX,Healthcare Provider,43961,2/26/16,Electronic Medical Record
+CO,Healthcare Provider,2147,2/27/16,Network Server
+CT,Health Plan,3000,2/29/16,Other
+AR,Healthcare Provider,4800,3/1/16,Electronic Medical Record
+NY,Health Plan,6893,3/3/16,Laptop
+CA,Healthcare Provider,1024,3/4/16,Email
+FL,Healthcare Provider,2213597,3/4/16,Network Server
+AR,Healthcare Provider,1669,3/4/16,Paper/Films
+IN,Healthcare Provider,205748,3/4/16,Laptop
+IL,Healthcare Provider,880,3/4/16,Paper/Films
+NE,Healthcare Provider,5883,3/7/16,"Electronic Medical Record, Network Server"
+IL,Healthcare Provider,26588,3/8/16,"Electronic Medical Record, Network Server"
+CT,Healthcare Provider,500,3/10/16,Paper/Films
+NC,Healthcare Provider,897,3/10/16,Other
+OH,Healthcare Provider,677,3/10/16,Electronic Medical Record
+MI,Healthcare Provider,2808,3/10/16,Other Portable Electronic Device
+NJ,Healthcare Provider,1654,3/11/16,"Network Server, Other"
+CA,Healthcare Provider,726,3/11/16,"Laptop, Other Portable Electronic Device"
+NY,Healthcare Provider,1154,3/14/16,Email
+CA,Health Plan,2373,3/15/16,Paper/Films
+MI,Healthcare Provider,2200,3/17/16,Other Portable Electronic Device
+NY,Healthcare Provider,647,3/17/16,Email
+NY,Healthcare Provider,773,3/18/16,Paper/Films
+TX,Healthcare Provider,2000,3/18/16,"Desktop Computer, Electronic Medical Record, Email, Laptop, Network Server"
+MT,Healthcare Provider,1124,3/21/16,Paper/Films
+VA,Healthcare Provider,23000,3/21/16,Email
+NY,Business Associate,2483,3/22/16,Email
+TX,Healthcare Provider,524,3/23/16,Desktop Computer
+WA,Healthcare Provider,3000,3/24/16,"Desktop Computer, Network Server"
+IA,Healthcare Provider,15625,3/25/16,"Desktop Computer, Email, Network Server"
+WI,Healthcare Provider,869,4/1/16,Network Server
+FL,Healthcare Provider,2000,4/1/16,"Desktop Computer, Other Portable Electronic Device"
+PA,Healthcare Provider,2939,4/1/16,Other
+CO,Business Associate,540,4/5/16,Paper/Films
+MN,Business Associate,719,4/5/16,Paper/Films
+CA,Business Associate,2426,4/5/16,Paper/Films
+FL,Healthcare Provider,3906,4/7/16,Laptop
+NM,Health Plan,7421,4/7/16,Paper/Films
+NJ,Healthcare Provider,3563,4/8/16,Other
+AR,Healthcare Provider,19397,4/11/16,"Electronic Medical Record, Network Server"
+FL,Healthcare Provider,650,4/12/16,Network Server
+FL,Healthcare Provider,532,4/12/16,Other
+CA,Healthcare Provider,6229,4/12/16,Laptop
+CT,Healthcare Provider,1000,4/12/16,Email
+OK,Health Plan,2664,4/13/16,Paper/Films
+FL,Healthcare Provider,1076,4/13/16,Paper/Films
+WI,Healthcare Provider,2734,4/15/16,"Desktop Computer, Other Portable Electronic Device"
+OR,Healthcare Provider,1506,4/15/16,Desktop Computer
+CO,Healthcare Provider,3118,4/15/16,"Laptop, Network Server"
+FL,Healthcare Provider,1906,4/18/16,Email
+WI,Business Associate,1032,4/19/16,Laptop
+FL,Healthcare Provider,648,4/20/16,Paper/Films
+FL,Healthcare Provider,648,4/20/16,Paper/Films
+WY,Healthcare Provider,3184,4/20/16,Email
+CA,Business Associate,2451,4/22/16,Paper/Films
+OH,Healthcare Provider,975,4/22/16,Other
+OH,Healthcare Provider,59000,4/22/16,Other
+OH,Healthcare Provider,23341,4/23/16,Email
+DC,Healthcare Provider,4107,4/25/16,Network Server
+OK,Healthcare Provider,2199,4/25/16,Email
+MI,Healthcare Provider,981,4/27/16,Network Server
+TX,Healthcare Provider,19898,4/28/16,Laptop
+SC,Healthcare Provider,1500,4/29/16,Paper/Films
+IN,Health Plan,610,5/1/16,Paper/Films
+FL,Healthcare Provider,1000,5/4/16,Electronic Medical Record
+MN,Health Plan,5330,5/4/16,Paper/Films
+FL,Healthcare Provider,87314,5/5/16,Network Server
+IN,Healthcare Provider,7500,5/9/16,Network Server
+IA,Healthcare Provider,1620,5/11/16,Electronic Medical Record
+FL,Healthcare Provider,500,5/11/16,Electronic Medical Record
+IL,Healthcare Provider,1625,5/11/16,Email
+TX,Healthcare Provider,68631,5/11/16,Network Server
+AR,Health Plan,2602,5/12/16,Email
+CA,Healthcare Provider,649,5/13/16,Laptop
+CA,Healthcare Provider,400000,5/15/16,Laptop
+KY,Healthcare Provider,971,5/16/16,"Laptop, Other Portable Electronic Device"
+AL,Business Associate,9009,5/16/16,Laptop
+NM,Healthcare Provider,12500,5/17/16,Desktop Computer
+MI,Healthcare Provider,4082,5/17/16,"Desktop Computer, Network Server"
+AZ,Healthcare Provider,1067,5/19/16,Paper/Films
+FL,Healthcare Provider,505,5/20/16,Other
+OH,Health Plan,591,5/20/16,Paper/Films
+GA,Health Plan,930,5/20/16,Paper/Films
+CA,,1370,5/24/16,Email
+PA,Healthcare Provider,800,5/24/16,"Electronic Medical Record, Paper/Films"
+PA,Healthcare Provider,19776,5/25/16,"Electronic Medical Record, Network Server"
+CA,Healthcare Provider,4386,5/25/16,Electronic Medical Record
+CT,Healthcare Provider,40491,5/25/16,Network Server
+MI,Health Plan,771,5/26/16,Paper/Films
+DC,Healthcare Provider,1062,5/31/16,Paper/Films
+AR,Healthcare Provider,16200,5/31/16,Network Server
+FL,Business Associate,2500,6/1/16,Network Server
+NM,Healthcare Provider,2827,6/3/16,Paper/Films
+MO,Healthcare Provider,3000,6/3/16,"Electronic Medical Record, Network Server"
+CO,Healthcare Provider,2250,6/7/16,Electronic Medical Record
+TN,Healthcare Provider,6853,6/7/16,Network Server
+TX,Healthcare Provider,1468,6/7/16,Paper/Films
+AR,Healthcare Provider,27393,6/8/16,Paper/Films
+MI,Healthcare Provider,22000,6/9/16,Network Server
+SC,Healthcare Provider,1437,6/9/16,Paper/Films
+KY,Healthcare Provider,1682,6/10/16,Email
+OH,Healthcare Provider,6441,6/10/16,Network Server
+VA,Healthcare Provider,578,6/10/16,Paper/Films
+MO,Healthcare Provider,31000,6/14/16,Network Server
+CA,Health Plan,1212,6/14/16,Paper/Films
+TX,Health Plan,600,6/14/16,Paper/Films
+CO,Healthcare Provider,6851,6/17/16,Network Server
+TX,Healthcare Provider,717,6/17/16,Paper/Films
+NC,Healthcare Provider,13674,6/21/16,Network Server
+NY,Healthcare Provider,650,6/27/16,Email
+VA,Healthcare Provider,2000,6/27/16,Other Portable Electronic Device
+MA,Healthcare Provider,4293,6/29/16,Network Server
+CA,Healthcare Provider,520,6/29/16,Other
+IA,Healthcare Provider,2506,7/1/16,Paper/Films
+PA,Healthcare Provider,13000,7/7/16,Network Server
+MD,Healthcare Provider,1350,7/7/16,Electronic Medical Record
+AR,Healthcare Provider,17100,7/11/16,Network Server
+TN,Healthcare Provider,1100,7/11/16,Other
+CO,Healthcare Provider,1835,7/11/16,Email
+CA,Health Plan,1136,7/12/16,Other Portable Electronic Device
+OH,Healthcare Provider,850,7/14/16,Electronic Medical Record
+FL,Health Plan,1479,7/14/16,Email
+MN,Healthcare Provider,1945,7/14/16,Network Server
+CA,Healthcare Provider,2473,7/15/16,Electronic Medical Record
+OR,Healthcare Provider,5978,7/15/16,Electronic Medical Record
+FL,Healthcare Provider,2500,7/19/16,Paper/Films
+MD,Healthcare Provider,4831,7/20/16,Other
+TX,Healthcare Provider,1326,7/20/16,Paper/Films
+CA,Healthcare Provider,2000,7/20/16,Laptop
+TX,Health Plan,12061,7/20/16,Paper/Films
+OH,Business Associate,7784,7/21/16,Paper/Films
+DE,Business Associate,1679,7/22/16,"Email, Other Portable Electronic Device"
+TX,Healthcare Provider,697,7/22/16,Email
+AL,Healthcare Provider,7200,7/25/16,"Electronic Medical Record, Other"
+TX,Healthcare Provider,2844,7/25/16,"Laptop, Paper/Films"
+MO,Healthcare Provider,29153,7/26/16,Network Server
+AZ,Healthcare Provider,854,7/28/16,Laptop
+GA,Healthcare Provider,201000,7/29/16,Electronic Medical Record
+MS,Healthcare Provider,10401,7/29/16,Network Server
+AZ,Healthcare Provider,3620000,8/3/16,"Network Server, Other"
+IL,Healthcare Provider,1185,8/4/16,Network Server
+PA,Healthcare Provider,992,8/5/16,Email
+MO,Healthcare Provider,23015,8/7/16,Network Server
+VA,Healthcare Provider,13237,8/9/16,Network Server
+NY,Business Associate,3466120,8/9/16,Network Server
+IL,Healthcare Provider,533,8/10/16,Email
+MD,Healthcare Provider,907,8/10/16,Email
+FL,Healthcare Provider,957,8/11/16,Paper/Films
+AZ,Healthcare Provider,882590,8/12/16,Network Server
+MD,Healthcare Provider,651971,8/12/16,Network Server
+CA,Healthcare Provider,1025,8/14/16,Other Portable Electronic Device
+TN,Healthcare Provider,500,8/15/16,Paper/Films
+NY,Healthcare Provider,21880,8/15/16,Network Server
+IL,Health Plan,688,8/18/16,Email
+IN,Healthcare Provider,6890,8/19/16,Network Server
+NC,Healthcare Provider,1000,8/19/16,Other Portable Electronic Device
+CA,Health Plan,87069,8/22/16,Other
+CA,Health Plan,1000,8/22/16,Other Portable Electronic Device
+KY,Healthcare Provider,674,8/23/16,Email
+WA,Healthcare Provider,10700,8/26/16,Email
+CA,Healthcare Provider,743,8/30/16,Paper/Films
+OR,Healthcare Provider,1980,8/30/16,Network Server
+LA,Healthcare Provider,824,8/31/16,Desktop Computer
+TX,Healthcare Provider,625,8/31/16,Other
+WA,Healthcare Provider,18399,9/1/16,Network Server
+CA,Healthcare Provider,25000,9/2/16,Paper/Films
+MO,Healthcare Provider,7748,9/2/16,Email
+WI,Healthcare Provider,3179,9/2/16,Email
+PA,Health Plan,2814,9/7/16,Other
+KS,Healthcare Provider,707,9/7/16,Paper/Films
+RI,Healthcare Provider,15478,9/8/16,Network Server
+MD,Healthcare Provider,860,9/8/16,"Desktop Computer, Electronic Medical Record"
+AL,Health Plan,1349,9/9/16,Network Server
+GA,Healthcare Provider,1000,9/9/16,Paper/Films
+OR,Healthcare Provider,2400,9/9/16,Electronic Medical Record
+CA,Healthcare Provider,1400,9/9/16,Laptop
+MA,Healthcare Provider,3840,9/12/16,Desktop Computer
+CA,Healthcare Provider,2029,9/12/16,Paper/Films
+PA,Healthcare Provider,16228,9/13/16,Network Server
+SC,Healthcare Provider,812,9/15/16,Paper/Films
+WA,Healthcare Provider,2818,9/16/16,Electronic Medical Record
+PA,Healthcare Provider,1456,9/19/16,Paper/Films
+CA,Healthcare Provider,777,9/20/16,Paper/Films
+MI,Healthcare Provider,1000,9/21/16,"Desktop Computer, Electronic Medical Record, Other"
+CA,Healthcare Provider,16000,9/21/16,Network Server
+NJ,Healthcare Provider,28000,9/22/16,"Electronic Medical Record, Network Server"
+KY,Healthcare Provider,1500,9/23/16,Network Server
+CA,Healthcare Provider,6000,9/23/16,Desktop Computer
+OH,Healthcare Provider,300000,9/23/16,Network Server
+WA,Health Plan,668,9/23/16,Paper/Films
+CA,Healthcare Provider,2933,9/26/16,Network Server
+CA,Healthcare Provider,2292,9/27/16,Network Server
+GA,Healthcare Provider,10891,9/28/16,Desktop Computer
+NM,Healthcare Provider,500,9/29/16,Network Server
+TN,Healthcare Provider,9624,9/29/16,Laptop
+MS,Healthcare Provider,64000,9/30/16,Network Server
+WI,Healthcare Provider,6923,9/30/16,Paper/Films
+TX,Healthcare Provider,33698,10/3/16,Network Server
+AZ,Healthcare Provider,14236,10/4/16,Network Server
+CA,Healthcare Provider,1987,10/4/16,Email
+AR,Healthcare Provider,2124,10/5/16,Other
+CA,Healthcare Provider,2245,10/7/16,Electronic Medical Record
+IL,Healthcare Provider,540,10/7/16,Other Portable Electronic Device
+OK,Healthcare Provider,2938,10/7/16,Network Server
+IL,Healthcare Provider,992,10/10/16,Email
+IN,Healthcare Provider,1466,10/14/16,"Email, Network Server"
+IN,Business Associate,7242,10/14/16,Laptop
