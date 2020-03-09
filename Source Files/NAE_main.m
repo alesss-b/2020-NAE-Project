@@ -36,7 +36,7 @@ breach_data = readtable('breach_info.csv', 'Headerlines', 1);
 
 %% Main Loop
 mainChoice = menu(mainPrompt, mainChoices);
-while mainChoice ~= 5
+while mainChoice ~= 5 && mainChoice ~= 0
     % Main Menu Loop
     switch mainChoice
         % These will go to functions, there will be no code here.
