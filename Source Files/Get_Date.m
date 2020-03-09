@@ -1,12 +1,12 @@
-function [date] = Get_Date(breach_info, row, type)
+function [date] = Get_Date(breach_data, row, type)
 % Get_Date takes the data set, the row in which the date can be found, as 
 % well as the desired output type (day, month, year, full)
-    if (row > height(breach_info))
+    if (row > height(breach_data))
         error("Row argument can not exceed vertical length of breach_data table.");
     else
         type = lower(type);
         
-        date = char(breach_info{row, 4}); % fourth column will always contain the dates
+        date = char(breach_data{row, 4}); % fourth column will always contain the dates
         switch (type)
             case "day"
                 % Return day
@@ -25,7 +25,7 @@ function [date] = Get_Date(breach_info, row, type)
                 
             case "full"
                 % Return full date
-                date = datetime(Get_Date(breach_info, row, "year"), Get_Date(breach_info, row, "month"), Get_Date(breach_info, row, "day"));
+                date = datetime(Get_Date(breach_data, row, "year"), Get_Date(breach_data, row, "month"), Get_Date(breach_data, row, "day"));
             otherwise
                 % Return error
                 error("Invalid argument for type.");

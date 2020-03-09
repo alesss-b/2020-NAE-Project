@@ -19,15 +19,17 @@ function [] = Line_Graph(breach_data)
     endingYear = startingYear + menu(menuPromptYear2, num2cell(menuOptionsYear(startingYear+1:end)));
 
     %Calculations for Plotting
-    dates = [];  % maybe pre-allocate these, not sure yet
-    attacks = [];
-    for i = 1:height(breach_data)
-        year = Get_Date(breach_data, i, "year");
-        date = Get_Date(breach_data, i, "full");
-        if (year >= menuOptionsYear(startingYear) && year <= menuOptionsYear(endingYear))
-            dates = [dates, date];
-            attacks = [attacks, double(breach_data{i, 3})];
+    dates = menuOptionsYear(startingYear:endingYear);  
+    attacks = zeros(1, length(dates));
+    for i = 1:length(dates)
+        year = dates(i);
+        for j = 1:height(breach_data)
+            if (Get_Date(breach_data, j, "year") == year)
+                attacks(i) = attacks(i) + 1;
+            end
         end
+        % Make attacks a vector that corresponds to the number of attacks
+        % each year from startingYear to endingYear
     end
     t = sprintf("Number of Breaches from %i to %i", menuOptionsYear(startingYear), menuOptionsYear(endingYear));
     % Plot
